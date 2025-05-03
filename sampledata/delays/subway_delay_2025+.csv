@@ -1,0 +1,2166 @@
+month,division,line,day_type,reporting_category,subcategory,delays
+2025-01-01,A DIVISION,1,1,Crew Availability,Crew Availability,57
+2025-01-01,A DIVISION,1,1,External Factors,External Agency or Utility,3
+2025-01-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,27
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,24
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,58
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,"Fire, Smoke, Debris",14
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Other - CE,24
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Other - Sig,271
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Other Infrastructure,24
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Other Internal Disruptions,3
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Propulsion,6
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Rail and Roadbed,86
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Service Delivery,51
+2025-01-01,A DIVISION,1,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,24
+2025-01-01,A DIVISION,1,1,Operating Conditions,Other Operating Environment,156
+2025-01-01,A DIVISION,1,1,Planned ROW Work,Capital Work - Other Planned ROW,6
+2025-01-01,A DIVISION,1,1,Planned ROW Work,Subways Maintenance,269
+2025-01-01,A DIVISION,1,1,Planned ROW Work,Work Equipment,9
+2025-01-01,A DIVISION,1,1,Police & Medical,Persons on Roadbed,104
+2025-01-01,A DIVISION,1,1,Police & Medical,"Public Conduct, Crime, Police Response",339
+2025-01-01,A DIVISION,1,1,Police & Medical,Sick/Injured Customer,99
+2025-01-01,A DIVISION,1,2,Crew Availability,Crew Availability,17
+2025-01-01,A DIVISION,1,2,Infrastructure & Equipment,Braking,6
+2025-01-01,A DIVISION,1,2,Infrastructure & Equipment,Door-Related,16
+2025-01-01,A DIVISION,1,2,Infrastructure & Equipment,"Fire, Smoke, Debris",12
+2025-01-01,A DIVISION,1,2,Infrastructure & Equipment,Other - CE,30
+2025-01-01,A DIVISION,1,2,Infrastructure & Equipment,Other - Sig,52
+2025-01-01,A DIVISION,1,2,Infrastructure & Equipment,Propulsion,6
+2025-01-01,A DIVISION,1,2,Infrastructure & Equipment,Rail and Roadbed,4
+2025-01-01,A DIVISION,1,2,Infrastructure & Equipment,Service Delivery,9
+2025-01-01,A DIVISION,1,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2
+2025-01-01,A DIVISION,1,2,Operating Conditions,Other Operating Environment,21
+2025-01-01,A DIVISION,1,2,Planned ROW Work,Capital Work - Other Planned ROW,101
+2025-01-01,A DIVISION,1,2,Planned ROW Work,Insufficient Supplement Schedule,19
+2025-01-01,A DIVISION,1,2,Planned ROW Work,Subways Maintenance,74
+2025-01-01,A DIVISION,1,2,Planned ROW Work,Work Equipment,2
+2025-01-01,A DIVISION,1,2,Police & Medical,Persons on Roadbed,24
+2025-01-01,A DIVISION,1,2,Police & Medical,"Public Conduct, Crime, Police Response",97
+2025-01-01,A DIVISION,1,2,Police & Medical,Sick/Injured Customer,20
+2025-01-01,A DIVISION,2,1,Crew Availability,Crew Availability,36
+2025-01-01,A DIVISION,2,1,External Factors,External Agency or Utility,51
+2025-01-01,A DIVISION,2,1,External Factors,External Debris on Roadbed,32
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Braking,22
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Door-Related,3
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,"Fire, Smoke, Debris",74
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Other - CE,23
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Other - Sig,274
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Other Infrastructure,33
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Other Internal Disruptions,42
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Propulsion,35
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Rail and Roadbed,67
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Service Delivery,53
+2025-01-01,A DIVISION,2,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,38
+2025-01-01,A DIVISION,2,1,Operating Conditions,Other Operating Environment,159
+2025-01-01,A DIVISION,2,1,Planned ROW Work,Capital Work - Other Planned ROW,4
+2025-01-01,A DIVISION,2,1,Planned ROW Work,Subways Maintenance,278
+2025-01-01,A DIVISION,2,1,Planned ROW Work,Work Equipment,4
+2025-01-01,A DIVISION,2,1,Police & Medical,Persons on Roadbed,140
+2025-01-01,A DIVISION,2,1,Police & Medical,"Public Conduct, Crime, Police Response",533
+2025-01-01,A DIVISION,2,1,Police & Medical,Sick/Injured Customer,134
+2025-01-01,A DIVISION,2,2,Crew Availability,Crew Availability,13
+2025-01-01,A DIVISION,2,2,Infrastructure & Equipment,Door-Related,8
+2025-01-01,A DIVISION,2,2,Infrastructure & Equipment,Other - CE,4
+2025-01-01,A DIVISION,2,2,Infrastructure & Equipment,Other - Sig,37
+2025-01-01,A DIVISION,2,2,Infrastructure & Equipment,Other Internal Disruptions,8
+2025-01-01,A DIVISION,2,2,Infrastructure & Equipment,Propulsion,14
+2025-01-01,A DIVISION,2,2,Infrastructure & Equipment,Rail and Roadbed,8
+2025-01-01,A DIVISION,2,2,Infrastructure & Equipment,Service Delivery,11
+2025-01-01,A DIVISION,2,2,Operating Conditions,Other Operating Environment,149
+2025-01-01,A DIVISION,2,2,Planned ROW Work,Capital Work - Other Planned ROW,111
+2025-01-01,A DIVISION,2,2,Planned ROW Work,Subways Maintenance,128
+2025-01-01,A DIVISION,2,2,Planned ROW Work,Work Equipment,10
+2025-01-01,A DIVISION,2,2,Police & Medical,Persons on Roadbed,29
+2025-01-01,A DIVISION,2,2,Police & Medical,"Public Conduct, Crime, Police Response",214
+2025-01-01,A DIVISION,2,2,Police & Medical,Sick/Injured Customer,38
+2025-01-01,A DIVISION,3,1,Crew Availability,Crew Availability,33
+2025-01-01,A DIVISION,3,1,External Factors,External Agency or Utility,1
+2025-01-01,A DIVISION,3,1,External Factors,External Debris on Roadbed,25
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,Braking,75
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,Door-Related,12
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,"Fire, Smoke, Debris",62
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,Other - Sig,145
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,Other Infrastructure,2
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,Other Internal Disruptions,6
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,Propulsion,12
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,Rail and Roadbed,39
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,Service Delivery,19
+2025-01-01,A DIVISION,3,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,29
+2025-01-01,A DIVISION,3,1,Operating Conditions,Other Operating Environment,82
+2025-01-01,A DIVISION,3,1,Planned ROW Work,Subways Maintenance,74
+2025-01-01,A DIVISION,3,1,Planned ROW Work,Work Equipment,3
+2025-01-01,A DIVISION,3,1,Police & Medical,Persons on Roadbed,142
+2025-01-01,A DIVISION,3,1,Police & Medical,"Public Conduct, Crime, Police Response",317
+2025-01-01,A DIVISION,3,1,Police & Medical,Sick/Injured Customer,88
+2025-01-01,A DIVISION,3,2,Crew Availability,Crew Availability,14
+2025-01-01,A DIVISION,3,2,External Factors,External Debris on Roadbed,3
+2025-01-01,A DIVISION,3,2,Infrastructure & Equipment,Braking,11
+2025-01-01,A DIVISION,3,2,Infrastructure & Equipment,Door-Related,6
+2025-01-01,A DIVISION,3,2,Infrastructure & Equipment,"Fire, Smoke, Debris",5
+2025-01-01,A DIVISION,3,2,Infrastructure & Equipment,Other - Sig,22
+2025-01-01,A DIVISION,3,2,Infrastructure & Equipment,Other Infrastructure,2
+2025-01-01,A DIVISION,3,2,Infrastructure & Equipment,Propulsion,23
+2025-01-01,A DIVISION,3,2,Infrastructure & Equipment,Service Delivery,2
+2025-01-01,A DIVISION,3,2,Operating Conditions,Other Operating Environment,90
+2025-01-01,A DIVISION,3,2,Planned ROW Work,Capital Work - Other Planned ROW,91
+2025-01-01,A DIVISION,3,2,Planned ROW Work,Subways Maintenance,95
+2025-01-01,A DIVISION,3,2,Planned ROW Work,Work Equipment,1
+2025-01-01,A DIVISION,3,2,Police & Medical,Persons on Roadbed,20
+2025-01-01,A DIVISION,3,2,Police & Medical,"Public Conduct, Crime, Police Response",126
+2025-01-01,A DIVISION,3,2,Police & Medical,Sick/Injured Customer,46
+2025-01-01,A DIVISION,4,1,Crew Availability,Crew Availability,22
+2025-01-01,A DIVISION,4,1,External Factors,External Agency or Utility,5
+2025-01-01,A DIVISION,4,1,External Factors,External Debris on Roadbed,67
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Braking,25
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Door-Related,12
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,"Fire, Smoke, Debris",97
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Other - CE,21
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Other - Sig,187
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Other Infrastructure,42
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Other Internal Disruptions,47
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Propulsion,5
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Rail and Roadbed,13
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Service Delivery,17
+2025-01-01,A DIVISION,4,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,8
+2025-01-01,A DIVISION,4,1,Operating Conditions,Other Operating Environment,137
+2025-01-01,A DIVISION,4,1,Planned ROW Work,Capital Work - Other Planned ROW,2
+2025-01-01,A DIVISION,4,1,Planned ROW Work,Subways Maintenance,110
+2025-01-01,A DIVISION,4,1,Planned ROW Work,Work Equipment,10
+2025-01-01,A DIVISION,4,1,Police & Medical,Persons on Roadbed,137
+2025-01-01,A DIVISION,4,1,Police & Medical,"Public Conduct, Crime, Police Response",516
+2025-01-01,A DIVISION,4,1,Police & Medical,Sick/Injured Customer,141
+2025-01-01,A DIVISION,4,2,Crew Availability,Crew Availability,14
+2025-01-01,A DIVISION,4,2,Infrastructure & Equipment,Braking,2
+2025-01-01,A DIVISION,4,2,Infrastructure & Equipment,Door-Related,4
+2025-01-01,A DIVISION,4,2,Infrastructure & Equipment,"Fire, Smoke, Debris",4
+2025-01-01,A DIVISION,4,2,Infrastructure & Equipment,Other - CE,3
+2025-01-01,A DIVISION,4,2,Infrastructure & Equipment,Other - Sig,6
+2025-01-01,A DIVISION,4,2,Infrastructure & Equipment,Rail and Roadbed,12
+2025-01-01,A DIVISION,4,2,Infrastructure & Equipment,Service Delivery,26
+2025-01-01,A DIVISION,4,2,Operating Conditions,Other Operating Environment,128
+2025-01-01,A DIVISION,4,2,Planned ROW Work,Capital Work - Other Planned ROW,1
+2025-01-01,A DIVISION,4,2,Planned ROW Work,Subways Maintenance,72
+2025-01-01,A DIVISION,4,2,Police & Medical,Persons on Roadbed,33
+2025-01-01,A DIVISION,4,2,Police & Medical,"Public Conduct, Crime, Police Response",109
+2025-01-01,A DIVISION,4,2,Police & Medical,Sick/Injured Customer,38
+2025-01-01,A DIVISION,5,1,Crew Availability,Crew Availability,12
+2025-01-01,A DIVISION,5,1,External Factors,External Agency or Utility,53
+2025-01-01,A DIVISION,5,1,External Factors,External Debris on Roadbed,48
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Braking,43
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Door-Related,9
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,"Fire, Smoke, Debris",91
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Other - CE,30
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Other - Sig,275
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Other Infrastructure,45
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Other Internal Disruptions,4
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Propulsion,28
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Rail and Roadbed,37
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Service Delivery,38
+2025-01-01,A DIVISION,5,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,9
+2025-01-01,A DIVISION,5,1,Operating Conditions,Other Operating Environment,106
+2025-01-01,A DIVISION,5,1,Operating Conditions,Service Management,4
+2025-01-01,A DIVISION,5,1,Planned ROW Work,Capital Work - Other Planned ROW,6
+2025-01-01,A DIVISION,5,1,Planned ROW Work,Subways Maintenance,78
+2025-01-01,A DIVISION,5,1,Planned ROW Work,Work Equipment,6
+2025-01-01,A DIVISION,5,1,Police & Medical,Persons on Roadbed,142
+2025-01-01,A DIVISION,5,1,Police & Medical,"Public Conduct, Crime, Police Response",470
+2025-01-01,A DIVISION,5,1,Police & Medical,Sick/Injured Customer,190
+2025-01-01,A DIVISION,5,2,Crew Availability,Crew Availability,7
+2025-01-01,A DIVISION,5,2,Infrastructure & Equipment,Door-Related,2
+2025-01-01,A DIVISION,5,2,Infrastructure & Equipment,"Fire, Smoke, Debris",8
+2025-01-01,A DIVISION,5,2,Infrastructure & Equipment,Other - CE,2
+2025-01-01,A DIVISION,5,2,Infrastructure & Equipment,Other - Sig,5
+2025-01-01,A DIVISION,5,2,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-01-01,A DIVISION,5,2,Infrastructure & Equipment,Rail and Roadbed,2
+2025-01-01,A DIVISION,5,2,Infrastructure & Equipment,Service Delivery,11
+2025-01-01,A DIVISION,5,2,Operating Conditions,Other Operating Environment,27
+2025-01-01,A DIVISION,5,2,Planned ROW Work,Subways Maintenance,14
+2025-01-01,A DIVISION,5,2,Planned ROW Work,Work Equipment,3
+2025-01-01,A DIVISION,5,2,Police & Medical,Persons on Roadbed,19
+2025-01-01,A DIVISION,5,2,Police & Medical,"Public Conduct, Crime, Police Response",69
+2025-01-01,A DIVISION,5,2,Police & Medical,Sick/Injured Customer,10
+2025-01-01,A DIVISION,6,1,Crew Availability,Crew Availability,22
+2025-01-01,A DIVISION,6,1,External Factors,External Debris on Roadbed,114
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Braking,53
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Door-Related,99
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,"Fire, Smoke, Debris",61
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Other - CE,25
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Other - Sig,82
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Other Infrastructure,25
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Other Internal Disruptions,6
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Propulsion,46
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Rail and Roadbed,17
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Service Delivery,24
+2025-01-01,A DIVISION,6,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,29
+2025-01-01,A DIVISION,6,1,Operating Conditions,Other Operating Environment,79
+2025-01-01,A DIVISION,6,1,Operating Conditions,Service Management,108
+2025-01-01,A DIVISION,6,1,Planned ROW Work,Capital Work - Other Planned ROW,19
+2025-01-01,A DIVISION,6,1,Planned ROW Work,Subways Maintenance,193
+2025-01-01,A DIVISION,6,1,Planned ROW Work,Work Equipment,16
+2025-01-01,A DIVISION,6,1,Police & Medical,Persons on Roadbed,130
+2025-01-01,A DIVISION,6,1,Police & Medical,"Public Conduct, Crime, Police Response",589
+2025-01-01,A DIVISION,6,1,Police & Medical,Sick/Injured Customer,151
+2025-01-01,A DIVISION,6,2,Crew Availability,Crew Availability,34
+2025-01-01,A DIVISION,6,2,Infrastructure & Equipment,Braking,23
+2025-01-01,A DIVISION,6,2,Infrastructure & Equipment,Door-Related,7
+2025-01-01,A DIVISION,6,2,Infrastructure & Equipment,Other - CE,2
+2025-01-01,A DIVISION,6,2,Infrastructure & Equipment,Other - Sig,10
+2025-01-01,A DIVISION,6,2,Infrastructure & Equipment,Rail and Roadbed,4
+2025-01-01,A DIVISION,6,2,Infrastructure & Equipment,Service Delivery,18
+2025-01-01,A DIVISION,6,2,Operating Conditions,Other Operating Environment,48
+2025-01-01,A DIVISION,6,2,Planned ROW Work,Subways Maintenance,52
+2025-01-01,A DIVISION,6,2,Police & Medical,Persons on Roadbed,59
+2025-01-01,A DIVISION,6,2,Police & Medical,"Public Conduct, Crime, Police Response",82
+2025-01-01,A DIVISION,6,2,Police & Medical,Sick/Injured Customer,26
+2025-01-01,A DIVISION,7,1,Crew Availability,Crew Availability,58
+2025-01-01,A DIVISION,7,1,External Factors,External Debris on Roadbed,18
+2025-01-01,A DIVISION,7,1,External Factors,Inclement Weather,6
+2025-01-01,A DIVISION,7,1,Infrastructure & Equipment,Braking,26
+2025-01-01,A DIVISION,7,1,Infrastructure & Equipment,Door-Related,113
+2025-01-01,A DIVISION,7,1,Infrastructure & Equipment,Other - CE,10
+2025-01-01,A DIVISION,7,1,Infrastructure & Equipment,Other - Sig,113
+2025-01-01,A DIVISION,7,1,Infrastructure & Equipment,Other Infrastructure,43
+2025-01-01,A DIVISION,7,1,Infrastructure & Equipment,Other Internal Disruptions,14
+2025-01-01,A DIVISION,7,1,Infrastructure & Equipment,Rail and Roadbed,83
+2025-01-01,A DIVISION,7,1,Infrastructure & Equipment,Service Delivery,11
+2025-01-01,A DIVISION,7,1,Infrastructure & Equipment,Signal Modernization Capital Project,2
+2025-01-01,A DIVISION,7,1,Operating Conditions,Other Operating Environment,11
+2025-01-01,A DIVISION,7,1,Planned ROW Work,Subways Maintenance,194
+2025-01-01,A DIVISION,7,1,Planned ROW Work,Work Equipment,21
+2025-01-01,A DIVISION,7,1,Police & Medical,Persons on Roadbed,79
+2025-01-01,A DIVISION,7,1,Police & Medical,"Public Conduct, Crime, Police Response",110
+2025-01-01,A DIVISION,7,1,Police & Medical,Sick/Injured Customer,16
+2025-01-01,A DIVISION,7,2,Crew Availability,Crew Availability,15
+2025-01-01,A DIVISION,7,2,External Factors,Inclement Weather,6
+2025-01-01,A DIVISION,7,2,Infrastructure & Equipment,Door-Related,4
+2025-01-01,A DIVISION,7,2,Infrastructure & Equipment,Other - CE,2
+2025-01-01,A DIVISION,7,2,Infrastructure & Equipment,Other - Sig,9
+2025-01-01,A DIVISION,7,2,Infrastructure & Equipment,Other Infrastructure,10
+2025-01-01,A DIVISION,7,2,Infrastructure & Equipment,Service Delivery,4
+2025-01-01,A DIVISION,7,2,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2025-01-01,A DIVISION,7,2,Planned ROW Work,Capital Work - Other Planned ROW,26
+2025-01-01,A DIVISION,7,2,Planned ROW Work,Subways Maintenance,162
+2025-01-01,A DIVISION,7,2,Planned ROW Work,Work Equipment,2
+2025-01-01,A DIVISION,7,2,Police & Medical,Persons on Roadbed,25
+2025-01-01,A DIVISION,7,2,Police & Medical,"Public Conduct, Crime, Police Response",22
+2025-01-01,A DIVISION,GS,1,Police & Medical,"Public Conduct, Crime, Police Response",2
+2025-01-01,A DIVISION,GS,2,Crew Availability,Crew Availability,3
+2025-01-01,A DIVISION,GS,2,Infrastructure & Equipment,Door-Related,2
+2025-01-01,A DIVISION,GS,2,Police & Medical,"Public Conduct, Crime, Police Response",5
+2025-01-01,B DIVISION,A,1,Crew Availability,Crew Availability,67
+2025-01-01,B DIVISION,A,1,External Factors,External Agency or Utility,67
+2025-01-01,B DIVISION,A,1,External Factors,External Debris on Roadbed,16
+2025-01-01,B DIVISION,A,1,External Factors,Inclement Weather,3
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,Braking,36
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,Door-Related,25
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,"Fire, Smoke, Debris",19
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,Other - CE,81
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,Other - Sig,271
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,Other Infrastructure,18
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,Propulsion,57
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,Rail and Roadbed,38
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,Service Delivery,72
+2025-01-01,B DIVISION,A,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,26
+2025-01-01,B DIVISION,A,1,Operating Conditions,Other Operating Environment,65
+2025-01-01,B DIVISION,A,1,Planned ROW Work,Capital Work - Other Planned ROW,3
+2025-01-01,B DIVISION,A,1,Planned ROW Work,Subways Maintenance,447
+2025-01-01,B DIVISION,A,1,Planned ROW Work,Work Equipment,28
+2025-01-01,B DIVISION,A,1,Police & Medical,Persons on Roadbed,14
+2025-01-01,B DIVISION,A,1,Police & Medical,"Public Conduct, Crime, Police Response",232
+2025-01-01,B DIVISION,A,1,Police & Medical,Sick/Injured Customer,90
+2025-01-01,B DIVISION,A,2,Crew Availability,Crew Availability,21
+2025-01-01,B DIVISION,A,2,External Factors,External Agency or Utility,53
+2025-01-01,B DIVISION,A,2,External Factors,External Debris on Roadbed,8
+2025-01-01,B DIVISION,A,2,Infrastructure & Equipment,Door-Related,2
+2025-01-01,B DIVISION,A,2,Infrastructure & Equipment,"Fire, Smoke, Debris",3
+2025-01-01,B DIVISION,A,2,Infrastructure & Equipment,Other - CE,7
+2025-01-01,B DIVISION,A,2,Infrastructure & Equipment,Other - Sig,72
+2025-01-01,B DIVISION,A,2,Infrastructure & Equipment,Other Infrastructure,2
+2025-01-01,B DIVISION,A,2,Infrastructure & Equipment,Propulsion,6
+2025-01-01,B DIVISION,A,2,Infrastructure & Equipment,Rail and Roadbed,5
+2025-01-01,B DIVISION,A,2,Infrastructure & Equipment,Service Delivery,20
+2025-01-01,B DIVISION,A,2,Operating Conditions,Other Operating Environment,85
+2025-01-01,B DIVISION,A,2,Planned ROW Work,Subways Maintenance,221
+2025-01-01,B DIVISION,A,2,Planned ROW Work,Work Equipment,10
+2025-01-01,B DIVISION,A,2,Police & Medical,Persons on Roadbed,20
+2025-01-01,B DIVISION,A,2,Police & Medical,"Public Conduct, Crime, Police Response",69
+2025-01-01,B DIVISION,A,2,Police & Medical,Sick/Injured Customer,3
+2025-01-01,B DIVISION,B,1,Crew Availability,Crew Availability,64
+2025-01-01,B DIVISION,B,1,External Factors,External Debris on Roadbed,26
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Braking,103
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Door-Related,30
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,"Fire, Smoke, Debris",59
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Other - CE,259
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Other - Sig,175
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Other Infrastructure,7
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Propulsion,1
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Rail and Roadbed,119
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Service Delivery,56
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Signal Modernization Capital Project,6
+2025-01-01,B DIVISION,B,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,9
+2025-01-01,B DIVISION,B,1,Operating Conditions,Other Operating Environment,200
+2025-01-01,B DIVISION,B,1,Planned ROW Work,Capital Work - Other Planned ROW,1
+2025-01-01,B DIVISION,B,1,Planned ROW Work,Subways Maintenance,152
+2025-01-01,B DIVISION,B,1,Planned ROW Work,Work Equipment,44
+2025-01-01,B DIVISION,B,1,Police & Medical,Persons on Roadbed,80
+2025-01-01,B DIVISION,B,1,Police & Medical,"Public Conduct, Crime, Police Response",399
+2025-01-01,B DIVISION,B,1,Police & Medical,Sick/Injured Customer,48
+2025-01-01,B DIVISION,C,1,Crew Availability,Crew Availability,59
+2025-01-01,B DIVISION,C,1,External Factors,External Debris on Roadbed,3
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Braking,76
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Door-Related,15
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,"Fire, Smoke, Debris",23
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Other - CE,109
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Other - Sig,269
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Other Infrastructure,1
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Propulsion,11
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Rail and Roadbed,21
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Service Delivery,47
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2025-01-01,B DIVISION,C,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,29
+2025-01-01,B DIVISION,C,1,Operating Conditions,Other Operating Environment,145
+2025-01-01,B DIVISION,C,1,Planned ROW Work,Capital Work - Other Planned ROW,60
+2025-01-01,B DIVISION,C,1,Planned ROW Work,Subways Maintenance,77
+2025-01-01,B DIVISION,C,1,Planned ROW Work,Work Equipment,29
+2025-01-01,B DIVISION,C,1,Police & Medical,Persons on Roadbed,44
+2025-01-01,B DIVISION,C,1,Police & Medical,"Public Conduct, Crime, Police Response",309
+2025-01-01,B DIVISION,C,1,Police & Medical,Sick/Injured Customer,67
+2025-01-01,B DIVISION,C,2,Crew Availability,Crew Availability,9
+2025-01-01,B DIVISION,C,2,Infrastructure & Equipment,Door-Related,7
+2025-01-01,B DIVISION,C,2,Infrastructure & Equipment,"Fire, Smoke, Debris",11
+2025-01-01,B DIVISION,C,2,Infrastructure & Equipment,Other - CE,7
+2025-01-01,B DIVISION,C,2,Infrastructure & Equipment,Other - Sig,8
+2025-01-01,B DIVISION,C,2,Infrastructure & Equipment,Propulsion,7
+2025-01-01,B DIVISION,C,2,Infrastructure & Equipment,Service Delivery,5
+2025-01-01,B DIVISION,C,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2
+2025-01-01,B DIVISION,C,2,Operating Conditions,Other Operating Environment,24
+2025-01-01,B DIVISION,C,2,Planned ROW Work,Work Equipment,10
+2025-01-01,B DIVISION,C,2,Police & Medical,Persons on Roadbed,10
+2025-01-01,B DIVISION,C,2,Police & Medical,"Public Conduct, Crime, Police Response",25
+2025-01-01,B DIVISION,C,2,Police & Medical,Sick/Injured Customer,8
+2025-01-01,B DIVISION,D,1,Crew Availability,Crew Availability,84
+2025-01-01,B DIVISION,D,1,External Factors,External Debris on Roadbed,5
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Braking,35
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Door-Related,46
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,"Fire, Smoke, Debris",54
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Other - CE,311
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Other - Sig,182
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Other Infrastructure,13
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Propulsion,18
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Rail and Roadbed,47
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Service Delivery,16
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Signal Modernization Capital Project,2
+2025-01-01,B DIVISION,D,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,10
+2025-01-01,B DIVISION,D,1,Operating Conditions,Other Operating Environment,90
+2025-01-01,B DIVISION,D,1,Planned ROW Work,Capital Work - Other Planned ROW,2
+2025-01-01,B DIVISION,D,1,Planned ROW Work,Subways Maintenance,247
+2025-01-01,B DIVISION,D,1,Planned ROW Work,Work Equipment,81
+2025-01-01,B DIVISION,D,1,Police & Medical,Persons on Roadbed,37
+2025-01-01,B DIVISION,D,1,Police & Medical,"Public Conduct, Crime, Police Response",253
+2025-01-01,B DIVISION,D,1,Police & Medical,Sick/Injured Customer,17
+2025-01-01,B DIVISION,D,2,Crew Availability,Crew Availability,15
+2025-01-01,B DIVISION,D,2,External Factors,External Agency or Utility,8
+2025-01-01,B DIVISION,D,2,External Factors,External Debris on Roadbed,1
+2025-01-01,B DIVISION,D,2,Infrastructure & Equipment,Braking,2
+2025-01-01,B DIVISION,D,2,Infrastructure & Equipment,Door-Related,4
+2025-01-01,B DIVISION,D,2,Infrastructure & Equipment,"Fire, Smoke, Debris",9
+2025-01-01,B DIVISION,D,2,Infrastructure & Equipment,Other - CE,7
+2025-01-01,B DIVISION,D,2,Infrastructure & Equipment,Other - Sig,37
+2025-01-01,B DIVISION,D,2,Infrastructure & Equipment,Propulsion,10
+2025-01-01,B DIVISION,D,2,Infrastructure & Equipment,Rail and Roadbed,4
+2025-01-01,B DIVISION,D,2,Infrastructure & Equipment,Service Delivery,3
+2025-01-01,B DIVISION,D,2,Operating Conditions,Other Operating Environment,18
+2025-01-01,B DIVISION,D,2,Planned ROW Work,Subways Maintenance,36
+2025-01-01,B DIVISION,D,2,Planned ROW Work,Work Equipment,5
+2025-01-01,B DIVISION,D,2,Police & Medical,Persons on Roadbed,17
+2025-01-01,B DIVISION,D,2,Police & Medical,"Public Conduct, Crime, Police Response",40
+2025-01-01,B DIVISION,D,2,Police & Medical,Sick/Injured Customer,14
+2025-01-01,B DIVISION,E,1,Crew Availability,Crew Availability,29
+2025-01-01,B DIVISION,E,1,External Factors,External Agency or Utility,1
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Braking,18
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Door-Related,13
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,"Fire, Smoke, Debris",73
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Other - CE,443
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Other - Sig,123
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Other Infrastructure,40
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Other Internal Disruptions,10
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Propulsion,19
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Rail and Roadbed,16
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Service Delivery,30
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Signal Modernization Capital Project,63
+2025-01-01,B DIVISION,E,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,18
+2025-01-01,B DIVISION,E,1,Operating Conditions,Other Operating Environment,41
+2025-01-01,B DIVISION,E,1,Planned ROW Work,Capital Work - Other Planned ROW,23
+2025-01-01,B DIVISION,E,1,Planned ROW Work,Subways Maintenance,595
+2025-01-01,B DIVISION,E,1,Planned ROW Work,Work Equipment,10
+2025-01-01,B DIVISION,E,1,Police & Medical,Persons on Roadbed,92
+2025-01-01,B DIVISION,E,1,Police & Medical,"Public Conduct, Crime, Police Response",110
+2025-01-01,B DIVISION,E,1,Police & Medical,Sick/Injured Customer,67
+2025-01-01,B DIVISION,E,2,Crew Availability,Crew Availability,16
+2025-01-01,B DIVISION,E,2,External Factors,External Debris on Roadbed,1
+2025-01-01,B DIVISION,E,2,Infrastructure & Equipment,Door-Related,3
+2025-01-01,B DIVISION,E,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-01-01,B DIVISION,E,2,Infrastructure & Equipment,Other - CE,2
+2025-01-01,B DIVISION,E,2,Infrastructure & Equipment,Other - Sig,3
+2025-01-01,B DIVISION,E,2,Infrastructure & Equipment,Other Infrastructure,2
+2025-01-01,B DIVISION,E,2,Infrastructure & Equipment,Other Internal Disruptions,4
+2025-01-01,B DIVISION,E,2,Infrastructure & Equipment,Rail and Roadbed,10
+2025-01-01,B DIVISION,E,2,Infrastructure & Equipment,Service Delivery,10
+2025-01-01,B DIVISION,E,2,Infrastructure & Equipment,Signal Modernization Capital Project,6
+2025-01-01,B DIVISION,E,2,Operating Conditions,Other Operating Environment,5
+2025-01-01,B DIVISION,E,2,Planned ROW Work,Capital Work - Other Planned ROW,6
+2025-01-01,B DIVISION,E,2,Planned ROW Work,Subways Maintenance,152
+2025-01-01,B DIVISION,E,2,Planned ROW Work,Work Equipment,5
+2025-01-01,B DIVISION,E,2,Police & Medical,Persons on Roadbed,21
+2025-01-01,B DIVISION,E,2,Police & Medical,"Public Conduct, Crime, Police Response",53
+2025-01-01,B DIVISION,E,2,Police & Medical,Sick/Injured Customer,15
+2025-01-01,B DIVISION,F,1,Crew Availability,Crew Availability,47
+2025-01-01,B DIVISION,F,1,External Factors,Inclement Weather,6
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Braking,30
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Door-Related,6
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,"Fire, Smoke, Debris",30
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Other - CE,869
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Other - Sig,132
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Other Infrastructure,102
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Other Internal Disruptions,26
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Propulsion,12
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Rail and Roadbed,87
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Service Delivery,45
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Signal Modernization Capital Project,103
+2025-01-01,B DIVISION,F,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,20
+2025-01-01,B DIVISION,F,1,Operating Conditions,Other Operating Environment,59
+2025-01-01,B DIVISION,F,1,Planned ROW Work,Capital Work - Other Planned ROW,14
+2025-01-01,B DIVISION,F,1,Planned ROW Work,Other Planned ROW Work,1
+2025-01-01,B DIVISION,F,1,Planned ROW Work,Subways Maintenance,575
+2025-01-01,B DIVISION,F,1,Planned ROW Work,Work Equipment,42
+2025-01-01,B DIVISION,F,1,Police & Medical,Persons on Roadbed,181
+2025-01-01,B DIVISION,F,1,Police & Medical,"Public Conduct, Crime, Police Response",271
+2025-01-01,B DIVISION,F,1,Police & Medical,Sick/Injured Customer,42
+2025-01-01,B DIVISION,F,2,Crew Availability,Crew Availability,22
+2025-01-01,B DIVISION,F,2,External Factors,External Agency or Utility,1
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Braking,1
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Door-Related,9
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,"Fire, Smoke, Debris",5
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Other - CE,2
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Other - Sig,11
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Other Internal Disruptions,8
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Propulsion,1
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Rail and Roadbed,28
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Service Delivery,14
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Signal Modernization Capital Project,14
+2025-01-01,B DIVISION,F,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,5
+2025-01-01,B DIVISION,F,2,Operating Conditions,Other Operating Environment,11
+2025-01-01,B DIVISION,F,2,Planned ROW Work,Capital Work - Other Planned ROW,69
+2025-01-01,B DIVISION,F,2,Planned ROW Work,Subways Maintenance,105
+2025-01-01,B DIVISION,F,2,Planned ROW Work,Work Equipment,5
+2025-01-01,B DIVISION,F,2,Police & Medical,Persons on Roadbed,7
+2025-01-01,B DIVISION,F,2,Police & Medical,"Public Conduct, Crime, Police Response",52
+2025-01-01,B DIVISION,F,2,Police & Medical,Sick/Injured Customer,18
+2025-01-01,B DIVISION,G,1,Crew Availability,Crew Availability,37
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Braking,41
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Door-Related,9
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,"Fire, Smoke, Debris",8
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Other - CE,85
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Other - Sig,261
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Other Infrastructure,62
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Other Internal Disruptions,2
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Propulsion,9
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Rail and Roadbed,43
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Service Delivery,20
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Signal Modernization Capital Project,17
+2025-01-01,B DIVISION,G,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,22
+2025-01-01,B DIVISION,G,1,Operating Conditions,Other Operating Environment,340
+2025-01-01,B DIVISION,G,1,Planned ROW Work,Capital Work - Other Planned ROW,164
+2025-01-01,B DIVISION,G,1,Planned ROW Work,Subways Maintenance,583
+2025-01-01,B DIVISION,G,1,Planned ROW Work,Work Equipment,8
+2025-01-01,B DIVISION,G,1,Police & Medical,Persons on Roadbed,44
+2025-01-01,B DIVISION,G,1,Police & Medical,"Public Conduct, Crime, Police Response",205
+2025-01-01,B DIVISION,G,1,Police & Medical,Sick/Injured Customer,9
+2025-01-01,B DIVISION,G,2,Crew Availability,Crew Availability,13
+2025-01-01,B DIVISION,G,2,External Factors,Inclement Weather,4
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Braking,5
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Door-Related,13
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,"Fire, Smoke, Debris",4
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Other - CE,6
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Other - Sig,28
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Other Internal Disruptions,2
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Propulsion,1
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Rail and Roadbed,37
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Service Delivery,9
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Signal Modernization Capital Project,2
+2025-01-01,B DIVISION,G,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6
+2025-01-01,B DIVISION,G,2,Operating Conditions,Other Operating Environment,128
+2025-01-01,B DIVISION,G,2,Planned ROW Work,Subways Maintenance,197
+2025-01-01,B DIVISION,G,2,Planned ROW Work,Work Equipment,1
+2025-01-01,B DIVISION,G,2,Police & Medical,Persons on Roadbed,20
+2025-01-01,B DIVISION,G,2,Police & Medical,"Public Conduct, Crime, Police Response",250
+2025-01-01,B DIVISION,G,2,Police & Medical,Sick/Injured Customer,13
+2025-01-01,B DIVISION,JZ,1,Crew Availability,Crew Availability,42
+2025-01-01,B DIVISION,JZ,1,External Factors,External Debris on Roadbed,2
+2025-01-01,B DIVISION,JZ,1,Infrastructure & Equipment,Braking,16
+2025-01-01,B DIVISION,JZ,1,Infrastructure & Equipment,Door-Related,28
+2025-01-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other - CE,13
+2025-01-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other - Sig,81
+2025-01-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other Infrastructure,1
+2025-01-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other Internal Disruptions,3
+2025-01-01,B DIVISION,JZ,1,Infrastructure & Equipment,Propulsion,8
+2025-01-01,B DIVISION,JZ,1,Infrastructure & Equipment,Rail and Roadbed,35
+2025-01-01,B DIVISION,JZ,1,Infrastructure & Equipment,Service Delivery,10
+2025-01-01,B DIVISION,JZ,1,Operating Conditions,Other Operating Environment,35
+2025-01-01,B DIVISION,JZ,1,Planned ROW Work,Capital Work - Other Planned ROW,59
+2025-01-01,B DIVISION,JZ,1,Planned ROW Work,Subways Maintenance,157
+2025-01-01,B DIVISION,JZ,1,Planned ROW Work,Work Equipment,6
+2025-01-01,B DIVISION,JZ,1,Police & Medical,Persons on Roadbed,22
+2025-01-01,B DIVISION,JZ,1,Police & Medical,"Public Conduct, Crime, Police Response",124
+2025-01-01,B DIVISION,JZ,1,Police & Medical,Sick/Injured Customer,59
+2025-01-01,B DIVISION,JZ,2,Crew Availability,Crew Availability,5
+2025-01-01,B DIVISION,JZ,2,External Factors,External Debris on Roadbed,11
+2025-01-01,B DIVISION,JZ,2,Infrastructure & Equipment,Braking,25
+2025-01-01,B DIVISION,JZ,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-01-01,B DIVISION,JZ,2,Infrastructure & Equipment,Other - CE,5
+2025-01-01,B DIVISION,JZ,2,Infrastructure & Equipment,Other - Sig,6
+2025-01-01,B DIVISION,JZ,2,Infrastructure & Equipment,Propulsion,2
+2025-01-01,B DIVISION,JZ,2,Infrastructure & Equipment,Service Delivery,9
+2025-01-01,B DIVISION,JZ,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2
+2025-01-01,B DIVISION,JZ,2,Operating Conditions,Other Operating Environment,10
+2025-01-01,B DIVISION,JZ,2,Planned ROW Work,Capital Work - Other Planned ROW,14
+2025-01-01,B DIVISION,JZ,2,Planned ROW Work,Subways Maintenance,44
+2025-01-01,B DIVISION,JZ,2,Planned ROW Work,Work Equipment,6
+2025-01-01,B DIVISION,JZ,2,Police & Medical,Persons on Roadbed,3
+2025-01-01,B DIVISION,JZ,2,Police & Medical,"Public Conduct, Crime, Police Response",33
+2025-01-01,B DIVISION,JZ,2,Police & Medical,Sick/Injured Customer,8
+2025-01-01,B DIVISION,L,1,Crew Availability,Crew Availability,44
+2025-01-01,B DIVISION,L,1,External Factors,External Debris on Roadbed,49
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Braking,44
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Door-Related,30
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,"Fire, Smoke, Debris",21
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Other - CE,61
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Other - Sig,92
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Other Infrastructure,35
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Other Internal Disruptions,4
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Propulsion,11
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Rail and Roadbed,91
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Service Delivery,12
+2025-01-01,B DIVISION,L,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,10
+2025-01-01,B DIVISION,L,1,Operating Conditions,Other Operating Environment,18
+2025-01-01,B DIVISION,L,1,Planned ROW Work,Capital Work - Other Planned ROW,6
+2025-01-01,B DIVISION,L,1,Planned ROW Work,Subways Maintenance,185
+2025-01-01,B DIVISION,L,1,Planned ROW Work,Work Equipment,24
+2025-01-01,B DIVISION,L,1,Police & Medical,Persons on Roadbed,17
+2025-01-01,B DIVISION,L,1,Police & Medical,"Public Conduct, Crime, Police Response",215
+2025-01-01,B DIVISION,L,1,Police & Medical,Sick/Injured Customer,75
+2025-01-01,B DIVISION,L,2,Crew Availability,Crew Availability,5
+2025-01-01,B DIVISION,L,2,Infrastructure & Equipment,Door-Related,12
+2025-01-01,B DIVISION,L,2,Infrastructure & Equipment,Other - CE,7
+2025-01-01,B DIVISION,L,2,Infrastructure & Equipment,Other - Sig,45
+2025-01-01,B DIVISION,L,2,Infrastructure & Equipment,Other Infrastructure,50
+2025-01-01,B DIVISION,L,2,Infrastructure & Equipment,Rail and Roadbed,108
+2025-01-01,B DIVISION,L,2,Operating Conditions,Other Operating Environment,1
+2025-01-01,B DIVISION,L,2,Planned ROW Work,Subways Maintenance,16
+2025-01-01,B DIVISION,L,2,Planned ROW Work,Work Equipment,1
+2025-01-01,B DIVISION,L,2,Police & Medical,"Public Conduct, Crime, Police Response",45
+2025-01-01,B DIVISION,L,2,Police & Medical,Sick/Injured Customer,10
+2025-01-01,B DIVISION,M,1,Crew Availability,Crew Availability,56
+2025-01-01,B DIVISION,M,1,External Factors,External Debris on Roadbed,16
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,Braking,37
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,Door-Related,6
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,"Fire, Smoke, Debris",27
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,Other - CE,11
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,Other - Sig,51
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,Other Infrastructure,14
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,Rail and Roadbed,5
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,Service Delivery,21
+2025-01-01,B DIVISION,M,1,Infrastructure & Equipment,Signal Modernization Capital Project,15
+2025-01-01,B DIVISION,M,1,Operating Conditions,Other Operating Environment,21
+2025-01-01,B DIVISION,M,1,Planned ROW Work,Capital Work - Other Planned ROW,12
+2025-01-01,B DIVISION,M,1,Planned ROW Work,Subways Maintenance,56
+2025-01-01,B DIVISION,M,1,Planned ROW Work,Work Equipment,8
+2025-01-01,B DIVISION,M,1,Police & Medical,Persons on Roadbed,100
+2025-01-01,B DIVISION,M,1,Police & Medical,"Public Conduct, Crime, Police Response",124
+2025-01-01,B DIVISION,M,1,Police & Medical,Sick/Injured Customer,28
+2025-01-01,B DIVISION,M,2,Crew Availability,Crew Availability,2
+2025-01-01,B DIVISION,M,2,External Factors,External Debris on Roadbed,5
+2025-01-01,B DIVISION,M,2,Infrastructure & Equipment,Other - CE,4
+2025-01-01,B DIVISION,M,2,Infrastructure & Equipment,Propulsion,17
+2025-01-01,B DIVISION,M,2,Infrastructure & Equipment,Service Delivery,1
+2025-01-01,B DIVISION,M,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,3
+2025-01-01,B DIVISION,M,2,Operating Conditions,Other Operating Environment,1
+2025-01-01,B DIVISION,M,2,Planned ROW Work,Subways Maintenance,14
+2025-01-01,B DIVISION,M,2,Planned ROW Work,Work Equipment,1
+2025-01-01,B DIVISION,M,2,Police & Medical,"Public Conduct, Crime, Police Response",16
+2025-01-01,B DIVISION,M,2,Police & Medical,Sick/Injured Customer,5
+2025-01-01,B DIVISION,N,1,Crew Availability,Crew Availability,76
+2025-01-01,B DIVISION,N,1,External Factors,External Debris on Roadbed,25
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Braking,77
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Door-Related,91
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,"Fire, Smoke, Debris",152
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Other - CE,332
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Other - Sig,297
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Other Infrastructure,24
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Propulsion,57
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Rail and Roadbed,165
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Service Delivery,40
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2025-01-01,B DIVISION,N,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,23
+2025-01-01,B DIVISION,N,1,Operating Conditions,Other Operating Environment,118
+2025-01-01,B DIVISION,N,1,Planned ROW Work,Capital Work - Other Planned ROW,3
+2025-01-01,B DIVISION,N,1,Planned ROW Work,Subways Maintenance,431
+2025-01-01,B DIVISION,N,1,Planned ROW Work,Work Equipment,81
+2025-01-01,B DIVISION,N,1,Police & Medical,Persons on Roadbed,16
+2025-01-01,B DIVISION,N,1,Police & Medical,"Public Conduct, Crime, Police Response",393
+2025-01-01,B DIVISION,N,1,Police & Medical,Sick/Injured Customer,29
+2025-01-01,B DIVISION,N,2,Crew Availability,Crew Availability,15
+2025-01-01,B DIVISION,N,2,External Factors,External Agency or Utility,2
+2025-01-01,B DIVISION,N,2,External Factors,External Debris on Roadbed,7
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,Braking,12
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,Door-Related,12
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,"Fire, Smoke, Debris",33
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,Other - CE,1
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,Other - Sig,27
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,Other Internal Disruptions,4
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,Propulsion,39
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,Rail and Roadbed,1
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,Service Delivery,10
+2025-01-01,B DIVISION,N,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6
+2025-01-01,B DIVISION,N,2,Operating Conditions,Other Operating Environment,31
+2025-01-01,B DIVISION,N,2,Planned ROW Work,Capital Work - Other Planned ROW,15
+2025-01-01,B DIVISION,N,2,Planned ROW Work,Subways Maintenance,116
+2025-01-01,B DIVISION,N,2,Planned ROW Work,Work Equipment,21
+2025-01-01,B DIVISION,N,2,Police & Medical,"Public Conduct, Crime, Police Response",60
+2025-01-01,B DIVISION,N,2,Police & Medical,Sick/Injured Customer,20
+2025-01-01,B DIVISION,Q,1,Crew Availability,Crew Availability,39
+2025-01-01,B DIVISION,Q,1,External Factors,External Debris on Roadbed,13
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Braking,52
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Door-Related,24
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,"Fire, Smoke, Debris",49
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Other - CE,136
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Other - Sig,124
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Other Infrastructure,8
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Propulsion,25
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Rail and Roadbed,64
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Service Delivery,65
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Signal Modernization Capital Project,2
+2025-01-01,B DIVISION,Q,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,19
+2025-01-01,B DIVISION,Q,1,Operating Conditions,Other Operating Environment,80
+2025-01-01,B DIVISION,Q,1,Planned ROW Work,Subways Maintenance,230
+2025-01-01,B DIVISION,Q,1,Planned ROW Work,Work Equipment,23
+2025-01-01,B DIVISION,Q,1,Police & Medical,Persons on Roadbed,56
+2025-01-01,B DIVISION,Q,1,Police & Medical,"Public Conduct, Crime, Police Response",464
+2025-01-01,B DIVISION,Q,1,Police & Medical,Sick/Injured Customer,46
+2025-01-01,B DIVISION,Q,2,Crew Availability,Crew Availability,26
+2025-01-01,B DIVISION,Q,2,Infrastructure & Equipment,Braking,6
+2025-01-01,B DIVISION,Q,2,Infrastructure & Equipment,Door-Related,9
+2025-01-01,B DIVISION,Q,2,Infrastructure & Equipment,"Fire, Smoke, Debris",26
+2025-01-01,B DIVISION,Q,2,Infrastructure & Equipment,Other - Sig,3
+2025-01-01,B DIVISION,Q,2,Infrastructure & Equipment,Other Infrastructure,6
+2025-01-01,B DIVISION,Q,2,Infrastructure & Equipment,Propulsion,17
+2025-01-01,B DIVISION,Q,2,Infrastructure & Equipment,Rail and Roadbed,5
+2025-01-01,B DIVISION,Q,2,Infrastructure & Equipment,Service Delivery,5
+2025-01-01,B DIVISION,Q,2,Operating Conditions,Other Operating Environment,19
+2025-01-01,B DIVISION,Q,2,Planned ROW Work,Capital Work - Other Planned ROW,14
+2025-01-01,B DIVISION,Q,2,Planned ROW Work,Subways Maintenance,85
+2025-01-01,B DIVISION,Q,2,Planned ROW Work,Work Equipment,10
+2025-01-01,B DIVISION,Q,2,Police & Medical,"Public Conduct, Crime, Police Response",70
+2025-01-01,B DIVISION,Q,2,Police & Medical,Sick/Injured Customer,14
+2025-01-01,B DIVISION,R,1,Crew Availability,Crew Availability,12
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Braking,44
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Door-Related,10
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,"Fire, Smoke, Debris",47
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Other - CE,1206
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Other - Sig,57
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Other Infrastructure,48
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Other Internal Disruptions,13
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Propulsion,18
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Rail and Roadbed,40
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Service Delivery,10
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Signal Modernization Capital Project,22
+2025-01-01,B DIVISION,R,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,3
+2025-01-01,B DIVISION,R,1,Operating Conditions,Other Operating Environment,33
+2025-01-01,B DIVISION,R,1,Planned ROW Work,Subways Maintenance,76
+2025-01-01,B DIVISION,R,1,Planned ROW Work,Work Equipment,12
+2025-01-01,B DIVISION,R,1,Police & Medical,Persons on Roadbed,36
+2025-01-01,B DIVISION,R,1,Police & Medical,"Public Conduct, Crime, Police Response",101
+2025-01-01,B DIVISION,R,1,Police & Medical,Sick/Injured Customer,35
+2025-01-01,B DIVISION,R,2,Crew Availability,Crew Availability,18
+2025-01-01,B DIVISION,R,2,Infrastructure & Equipment,Braking,6
+2025-01-01,B DIVISION,R,2,Infrastructure & Equipment,Door-Related,3
+2025-01-01,B DIVISION,R,2,Infrastructure & Equipment,"Fire, Smoke, Debris",4
+2025-01-01,B DIVISION,R,2,Infrastructure & Equipment,Other - Sig,12
+2025-01-01,B DIVISION,R,2,Infrastructure & Equipment,Other Infrastructure,1
+2025-01-01,B DIVISION,R,2,Infrastructure & Equipment,Propulsion,23
+2025-01-01,B DIVISION,R,2,Infrastructure & Equipment,Service Delivery,4
+2025-01-01,B DIVISION,R,2,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2025-01-01,B DIVISION,R,2,Operating Conditions,Other Operating Environment,11
+2025-01-01,B DIVISION,R,2,Planned ROW Work,Capital Work - Other Planned ROW,2
+2025-01-01,B DIVISION,R,2,Planned ROW Work,Subways Maintenance,31
+2025-01-01,B DIVISION,R,2,Planned ROW Work,Work Equipment,10
+2025-01-01,B DIVISION,R,2,Police & Medical,"Public Conduct, Crime, Police Response",77
+2025-01-01,B DIVISION,R,2,Police & Medical,Sick/Injured Customer,20
+2025-01-01,B DIVISION,S Fkln,1,Infrastructure & Equipment,Braking,2
+2025-01-01,B DIVISION,S Fkln,1,Infrastructure & Equipment,Other - CE,10
+2025-01-01,B DIVISION,S Fkln,1,Infrastructure & Equipment,Other - Sig,22
+2025-01-01,B DIVISION,S Fkln,1,Planned ROW Work,Subways Maintenance,3
+2025-01-01,B DIVISION,S Fkln,1,Police & Medical,"Public Conduct, Crime, Police Response",9
+2025-01-01,B DIVISION,S Fkln,1,Police & Medical,Sick/Injured Customer,4
+2025-01-01,B DIVISION,S Fkln,2,Infrastructure & Equipment,Braking,2
+2025-01-01,B DIVISION,S Fkln,2,Infrastructure & Equipment,Other - Sig,1
+2025-01-01,B DIVISION,S Fkln,2,Planned ROW Work,Work Equipment,3
+2025-01-01,B DIVISION,S Rock,1,External Factors,External Agency or Utility,33
+2025-01-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Braking,3
+2025-01-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Door-Related,3
+2025-01-01,B DIVISION,S Rock,1,Infrastructure & Equipment,"Fire, Smoke, Debris",3
+2025-01-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Other - CE,1
+2025-01-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Other - Sig,3
+2025-01-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Other Infrastructure,2
+2025-01-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Propulsion,9
+2025-01-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Service Delivery,10
+2025-01-01,B DIVISION,S Rock,1,Operating Conditions,Other Operating Environment,2
+2025-01-01,B DIVISION,S Rock,1,Planned ROW Work,Capital Work - Other Planned ROW,1
+2025-01-01,B DIVISION,S Rock,1,Planned ROW Work,Subways Maintenance,21
+2025-01-01,B DIVISION,S Rock,1,Planned ROW Work,Work Equipment,5
+2025-01-01,B DIVISION,S Rock,1,Police & Medical,"Public Conduct, Crime, Police Response",15
+2025-01-01,B DIVISION,S Rock,2,Crew Availability,Crew Availability,4
+2025-01-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,3
+2025-01-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,4
+2025-01-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Service Delivery,2
+2025-01-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
+2025-01-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",3
+2025-02-01,A DIVISION,1,1,Crew Availability,Crew Availability,31
+2025-02-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,72
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,4
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,21
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,"Fire, Smoke, Debris",67
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Other - CE,13
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Other - Sig,158
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Other Infrastructure,191
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Other Internal Disruptions,8
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Propulsion,6
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Rail and Roadbed,96
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Service Delivery,47
+2025-02-01,A DIVISION,1,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,39
+2025-02-01,A DIVISION,1,1,Operating Conditions,Other Operating Environment,166
+2025-02-01,A DIVISION,1,1,Planned ROW Work,Capital Work - Other Planned ROW,18
+2025-02-01,A DIVISION,1,1,Planned ROW Work,Subways Maintenance,330
+2025-02-01,A DIVISION,1,1,Planned ROW Work,Work Equipment,5
+2025-02-01,A DIVISION,1,1,Police & Medical,Persons on Roadbed,105
+2025-02-01,A DIVISION,1,1,Police & Medical,"Public Conduct, Crime, Police Response",227
+2025-02-01,A DIVISION,1,1,Police & Medical,Sick/Injured Customer,73
+2025-02-01,A DIVISION,1,2,Crew Availability,Crew Availability,2
+2025-02-01,A DIVISION,1,2,Infrastructure & Equipment,Braking,1
+2025-02-01,A DIVISION,1,2,Infrastructure & Equipment,Door-Related,5
+2025-02-01,A DIVISION,1,2,Infrastructure & Equipment,Other - CE,2
+2025-02-01,A DIVISION,1,2,Infrastructure & Equipment,Other - Sig,24
+2025-02-01,A DIVISION,1,2,Infrastructure & Equipment,Other Infrastructure,3
+2025-02-01,A DIVISION,1,2,Infrastructure & Equipment,Other Internal Disruptions,10
+2025-02-01,A DIVISION,1,2,Infrastructure & Equipment,Propulsion,9
+2025-02-01,A DIVISION,1,2,Infrastructure & Equipment,Rail and Roadbed,30
+2025-02-01,A DIVISION,1,2,Infrastructure & Equipment,Service Delivery,7
+2025-02-01,A DIVISION,1,2,Operating Conditions,Other Operating Environment,16
+2025-02-01,A DIVISION,1,2,Planned ROW Work,Subways Maintenance,87
+2025-02-01,A DIVISION,1,2,Planned ROW Work,Work Equipment,15
+2025-02-01,A DIVISION,1,2,Police & Medical,Persons on Roadbed,18
+2025-02-01,A DIVISION,1,2,Police & Medical,"Public Conduct, Crime, Police Response",87
+2025-02-01,A DIVISION,1,2,Police & Medical,Sick/Injured Customer,69
+2025-02-01,A DIVISION,2,1,Crew Availability,Crew Availability,75
+2025-02-01,A DIVISION,2,1,External Factors,External Debris on Roadbed,65
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Braking,4
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Door-Related,15
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,"Fire, Smoke, Debris",42
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Other - CE,28
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Other - Sig,168
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Other Infrastructure,14
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Other Internal Disruptions,10
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Propulsion,1
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Rail and Roadbed,111
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Service Delivery,66
+2025-02-01,A DIVISION,2,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,32
+2025-02-01,A DIVISION,2,1,Operating Conditions,Other Operating Environment,96
+2025-02-01,A DIVISION,2,1,Planned ROW Work,Capital Work - Other Planned ROW,24
+2025-02-01,A DIVISION,2,1,Planned ROW Work,Insufficient Supplement Schedule,5
+2025-02-01,A DIVISION,2,1,Planned ROW Work,Subways Maintenance,331
+2025-02-01,A DIVISION,2,1,Planned ROW Work,Work Equipment,20
+2025-02-01,A DIVISION,2,1,Police & Medical,Persons on Roadbed,128
+2025-02-01,A DIVISION,2,1,Police & Medical,"Public Conduct, Crime, Police Response",388
+2025-02-01,A DIVISION,2,1,Police & Medical,Sick/Injured Customer,99
+2025-02-01,A DIVISION,2,2,Crew Availability,Crew Availability,13
+2025-02-01,A DIVISION,2,2,Infrastructure & Equipment,Door-Related,4
+2025-02-01,A DIVISION,2,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-02-01,A DIVISION,2,2,Infrastructure & Equipment,Other - Sig,38
+2025-02-01,A DIVISION,2,2,Infrastructure & Equipment,Other Infrastructure,10
+2025-02-01,A DIVISION,2,2,Infrastructure & Equipment,Propulsion,2
+2025-02-01,A DIVISION,2,2,Infrastructure & Equipment,Rail and Roadbed,27
+2025-02-01,A DIVISION,2,2,Infrastructure & Equipment,Service Delivery,20
+2025-02-01,A DIVISION,2,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4
+2025-02-01,A DIVISION,2,2,Operating Conditions,Other Operating Environment,101
+2025-02-01,A DIVISION,2,2,Planned ROW Work,Capital Work - Other Planned ROW,18
+2025-02-01,A DIVISION,2,2,Planned ROW Work,Subways Maintenance,146
+2025-02-01,A DIVISION,2,2,Planned ROW Work,Work Equipment,3
+2025-02-01,A DIVISION,2,2,Police & Medical,Persons on Roadbed,66
+2025-02-01,A DIVISION,2,2,Police & Medical,"Public Conduct, Crime, Police Response",105
+2025-02-01,A DIVISION,2,2,Police & Medical,Sick/Injured Customer,10
+2025-02-01,A DIVISION,3,1,Crew Availability,Crew Availability,39
+2025-02-01,A DIVISION,3,1,External Factors,External Debris on Roadbed,46
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,Braking,1
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,Door-Related,8
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,"Fire, Smoke, Debris",24
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,Other - CE,2
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,Other - Sig,135
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,Other Infrastructure,10
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,Other Internal Disruptions,5
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,Rail and Roadbed,61
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,Service Delivery,44
+2025-02-01,A DIVISION,3,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,7
+2025-02-01,A DIVISION,3,1,Operating Conditions,Other Operating Environment,96
+2025-02-01,A DIVISION,3,1,Planned ROW Work,Capital Work - Other Planned ROW,30
+2025-02-01,A DIVISION,3,1,Planned ROW Work,Subways Maintenance,205
+2025-02-01,A DIVISION,3,1,Planned ROW Work,Work Equipment,19
+2025-02-01,A DIVISION,3,1,Police & Medical,Persons on Roadbed,84
+2025-02-01,A DIVISION,3,1,Police & Medical,"Public Conduct, Crime, Police Response",217
+2025-02-01,A DIVISION,3,1,Police & Medical,Sick/Injured Customer,72
+2025-02-01,A DIVISION,3,2,Crew Availability,Crew Availability,3
+2025-02-01,A DIVISION,3,2,Infrastructure & Equipment,Door-Related,8
+2025-02-01,A DIVISION,3,2,Infrastructure & Equipment,"Fire, Smoke, Debris",2
+2025-02-01,A DIVISION,3,2,Infrastructure & Equipment,Other - CE,1
+2025-02-01,A DIVISION,3,2,Infrastructure & Equipment,Other - Sig,21
+2025-02-01,A DIVISION,3,2,Infrastructure & Equipment,Other Infrastructure,97
+2025-02-01,A DIVISION,3,2,Infrastructure & Equipment,Other Internal Disruptions,8
+2025-02-01,A DIVISION,3,2,Infrastructure & Equipment,Rail and Roadbed,32
+2025-02-01,A DIVISION,3,2,Infrastructure & Equipment,Service Delivery,18
+2025-02-01,A DIVISION,3,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6
+2025-02-01,A DIVISION,3,2,Operating Conditions,Other Operating Environment,34
+2025-02-01,A DIVISION,3,2,Planned ROW Work,Capital Work - Other Planned ROW,2
+2025-02-01,A DIVISION,3,2,Planned ROW Work,Subways Maintenance,234
+2025-02-01,A DIVISION,3,2,Planned ROW Work,Work Equipment,7
+2025-02-01,A DIVISION,3,2,Police & Medical,Persons on Roadbed,52
+2025-02-01,A DIVISION,3,2,Police & Medical,"Public Conduct, Crime, Police Response",107
+2025-02-01,A DIVISION,3,2,Police & Medical,Sick/Injured Customer,5
+2025-02-01,A DIVISION,4,1,Crew Availability,Crew Availability,24
+2025-02-01,A DIVISION,4,1,External Factors,External Debris on Roadbed,28
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,Braking,6
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,Door-Related,33
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,"Fire, Smoke, Debris",29
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,Other - CE,24
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,Other - Sig,439
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,Other Infrastructure,12
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,Propulsion,5
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,Rail and Roadbed,78
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,Service Delivery,38
+2025-02-01,A DIVISION,4,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,36
+2025-02-01,A DIVISION,4,1,Operating Conditions,Other Operating Environment,66
+2025-02-01,A DIVISION,4,1,Planned ROW Work,Capital Work - Other Planned ROW,5
+2025-02-01,A DIVISION,4,1,Planned ROW Work,Subways Maintenance,91
+2025-02-01,A DIVISION,4,1,Planned ROW Work,Work Equipment,4
+2025-02-01,A DIVISION,4,1,Police & Medical,Persons on Roadbed,62
+2025-02-01,A DIVISION,4,1,Police & Medical,"Public Conduct, Crime, Police Response",227
+2025-02-01,A DIVISION,4,1,Police & Medical,Sick/Injured Customer,76
+2025-02-01,A DIVISION,4,2,Crew Availability,Crew Availability,4
+2025-02-01,A DIVISION,4,2,External Factors,External Debris on Roadbed,1
+2025-02-01,A DIVISION,4,2,Infrastructure & Equipment,Braking,4
+2025-02-01,A DIVISION,4,2,Infrastructure & Equipment,Door-Related,15
+2025-02-01,A DIVISION,4,2,Infrastructure & Equipment,Other - CE,12
+2025-02-01,A DIVISION,4,2,Infrastructure & Equipment,Other - Sig,97
+2025-02-01,A DIVISION,4,2,Infrastructure & Equipment,Other Infrastructure,23
+2025-02-01,A DIVISION,4,2,Infrastructure & Equipment,Rail and Roadbed,21
+2025-02-01,A DIVISION,4,2,Infrastructure & Equipment,Service Delivery,46
+2025-02-01,A DIVISION,4,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,33
+2025-02-01,A DIVISION,4,2,Operating Conditions,Other Operating Environment,76
+2025-02-01,A DIVISION,4,2,Planned ROW Work,Capital Work - Other Planned ROW,45
+2025-02-01,A DIVISION,4,2,Planned ROW Work,Subways Maintenance,71
+2025-02-01,A DIVISION,4,2,Planned ROW Work,Work Equipment,6
+2025-02-01,A DIVISION,4,2,Police & Medical,Persons on Roadbed,32
+2025-02-01,A DIVISION,4,2,Police & Medical,"Public Conduct, Crime, Police Response",124
+2025-02-01,A DIVISION,4,2,Police & Medical,Sick/Injured Customer,19
+2025-02-01,A DIVISION,5,1,Crew Availability,Crew Availability,37
+2025-02-01,A DIVISION,5,1,External Factors,External Debris on Roadbed,51
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,Braking,1
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,Door-Related,25
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,"Fire, Smoke, Debris",6
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,Other - CE,15
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,Other - Sig,188
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,Other Infrastructure,1
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,Propulsion,2
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,Rail and Roadbed,33
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,Service Delivery,32
+2025-02-01,A DIVISION,5,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,39
+2025-02-01,A DIVISION,5,1,Operating Conditions,Other Operating Environment,99
+2025-02-01,A DIVISION,5,1,Planned ROW Work,Capital Work - Other Planned ROW,7
+2025-02-01,A DIVISION,5,1,Planned ROW Work,Subways Maintenance,89
+2025-02-01,A DIVISION,5,1,Planned ROW Work,Work Equipment,12
+2025-02-01,A DIVISION,5,1,Police & Medical,Persons on Roadbed,88
+2025-02-01,A DIVISION,5,1,Police & Medical,"Public Conduct, Crime, Police Response",353
+2025-02-01,A DIVISION,5,1,Police & Medical,Sick/Injured Customer,81
+2025-02-01,A DIVISION,5,2,Crew Availability,Crew Availability,4
+2025-02-01,A DIVISION,5,2,Infrastructure & Equipment,Braking,6
+2025-02-01,A DIVISION,5,2,Infrastructure & Equipment,Door-Related,1
+2025-02-01,A DIVISION,5,2,Infrastructure & Equipment,"Fire, Smoke, Debris",3
+2025-02-01,A DIVISION,5,2,Infrastructure & Equipment,Other - CE,1
+2025-02-01,A DIVISION,5,2,Infrastructure & Equipment,Other - Sig,22
+2025-02-01,A DIVISION,5,2,Infrastructure & Equipment,Other Infrastructure,1
+2025-02-01,A DIVISION,5,2,Infrastructure & Equipment,Propulsion,2
+2025-02-01,A DIVISION,5,2,Infrastructure & Equipment,Service Delivery,5
+2025-02-01,A DIVISION,5,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6
+2025-02-01,A DIVISION,5,2,Operating Conditions,Other Operating Environment,57
+2025-02-01,A DIVISION,5,2,Planned ROW Work,Capital Work - Other Planned ROW,24
+2025-02-01,A DIVISION,5,2,Planned ROW Work,Subways Maintenance,38
+2025-02-01,A DIVISION,5,2,Planned ROW Work,Work Equipment,1
+2025-02-01,A DIVISION,5,2,Police & Medical,Persons on Roadbed,8
+2025-02-01,A DIVISION,5,2,Police & Medical,"Public Conduct, Crime, Police Response",77
+2025-02-01,A DIVISION,5,2,Police & Medical,Sick/Injured Customer,17
+2025-02-01,A DIVISION,6,1,Crew Availability,Crew Availability,46
+2025-02-01,A DIVISION,6,1,External Factors,External Debris on Roadbed,1
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Braking,84
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Door-Related,87
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,"Fire, Smoke, Debris",18
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Other - CE,70
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Other - Sig,77
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Other Infrastructure,11
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Other Internal Disruptions,3
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Propulsion,29
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Rail and Roadbed,86
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Service Delivery,51
+2025-02-01,A DIVISION,6,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,28
+2025-02-01,A DIVISION,6,1,Operating Conditions,Other Operating Environment,127
+2025-02-01,A DIVISION,6,1,Operating Conditions,Service Management,76
+2025-02-01,A DIVISION,6,1,Planned ROW Work,Capital Work - Other Planned ROW,19
+2025-02-01,A DIVISION,6,1,Planned ROW Work,Subways Maintenance,89
+2025-02-01,A DIVISION,6,1,Planned ROW Work,Work Equipment,29
+2025-02-01,A DIVISION,6,1,Police & Medical,Persons on Roadbed,157
+2025-02-01,A DIVISION,6,1,Police & Medical,"Public Conduct, Crime, Police Response",545
+2025-02-01,A DIVISION,6,1,Police & Medical,Sick/Injured Customer,88
+2025-02-01,A DIVISION,6,2,Crew Availability,Crew Availability,5
+2025-02-01,A DIVISION,6,2,Infrastructure & Equipment,Braking,7
+2025-02-01,A DIVISION,6,2,Infrastructure & Equipment,Door-Related,21
+2025-02-01,A DIVISION,6,2,Infrastructure & Equipment,Other - CE,27
+2025-02-01,A DIVISION,6,2,Infrastructure & Equipment,Other - Sig,7
+2025-02-01,A DIVISION,6,2,Infrastructure & Equipment,Propulsion,10
+2025-02-01,A DIVISION,6,2,Infrastructure & Equipment,Service Delivery,10
+2025-02-01,A DIVISION,6,2,Operating Conditions,Other Operating Environment,45
+2025-02-01,A DIVISION,6,2,Operating Conditions,Service Management,1
+2025-02-01,A DIVISION,6,2,Planned ROW Work,Capital Work - Other Planned ROW,39
+2025-02-01,A DIVISION,6,2,Planned ROW Work,Subways Maintenance,72
+2025-02-01,A DIVISION,6,2,Planned ROW Work,Work Equipment,4
+2025-02-01,A DIVISION,6,2,Police & Medical,Persons on Roadbed,72
+2025-02-01,A DIVISION,6,2,Police & Medical,"Public Conduct, Crime, Police Response",112
+2025-02-01,A DIVISION,6,2,Police & Medical,Sick/Injured Customer,13
+2025-02-01,A DIVISION,7,1,Crew Availability,Crew Availability,62
+2025-02-01,A DIVISION,7,1,External Factors,External Debris on Roadbed,40
+2025-02-01,A DIVISION,7,1,External Factors,Inclement Weather,1
+2025-02-01,A DIVISION,7,1,Infrastructure & Equipment,Braking,2
+2025-02-01,A DIVISION,7,1,Infrastructure & Equipment,Door-Related,14
+2025-02-01,A DIVISION,7,1,Infrastructure & Equipment,"Fire, Smoke, Debris",8
+2025-02-01,A DIVISION,7,1,Infrastructure & Equipment,Other - CE,67
+2025-02-01,A DIVISION,7,1,Infrastructure & Equipment,Other - Sig,154
+2025-02-01,A DIVISION,7,1,Infrastructure & Equipment,Other Infrastructure,60
+2025-02-01,A DIVISION,7,1,Infrastructure & Equipment,Other Internal Disruptions,69
+2025-02-01,A DIVISION,7,1,Infrastructure & Equipment,Rail and Roadbed,181
+2025-02-01,A DIVISION,7,1,Infrastructure & Equipment,Service Delivery,2
+2025-02-01,A DIVISION,7,1,Operating Conditions,Other Operating Environment,15
+2025-02-01,A DIVISION,7,1,Planned ROW Work,Capital Work - Other Planned ROW,4
+2025-02-01,A DIVISION,7,1,Planned ROW Work,Subways Maintenance,88
+2025-02-01,A DIVISION,7,1,Planned ROW Work,Work Equipment,23
+2025-02-01,A DIVISION,7,1,Police & Medical,Persons on Roadbed,152
+2025-02-01,A DIVISION,7,1,Police & Medical,"Public Conduct, Crime, Police Response",189
+2025-02-01,A DIVISION,7,1,Police & Medical,Sick/Injured Customer,16
+2025-02-01,A DIVISION,7,2,Crew Availability,Crew Availability,2
+2025-02-01,A DIVISION,7,2,Infrastructure & Equipment,Door-Related,1
+2025-02-01,A DIVISION,7,2,Infrastructure & Equipment,Other - CE,4
+2025-02-01,A DIVISION,7,2,Infrastructure & Equipment,Other - Sig,6
+2025-02-01,A DIVISION,7,2,Infrastructure & Equipment,Other Infrastructure,8
+2025-02-01,A DIVISION,7,2,Infrastructure & Equipment,Rail and Roadbed,5
+2025-02-01,A DIVISION,7,2,Infrastructure & Equipment,Service Delivery,1
+2025-02-01,A DIVISION,7,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,14
+2025-02-01,A DIVISION,7,2,Operating Conditions,Other Operating Environment,28
+2025-02-01,A DIVISION,7,2,Planned ROW Work,Subways Maintenance,40
+2025-02-01,A DIVISION,7,2,Planned ROW Work,Work Equipment,10
+2025-02-01,A DIVISION,7,2,Police & Medical,"Public Conduct, Crime, Police Response",11
+2025-02-01,A DIVISION,GS,1,Infrastructure & Equipment,Braking,3
+2025-02-01,A DIVISION,GS,1,Police & Medical,"Public Conduct, Crime, Police Response",14
+2025-02-01,A DIVISION,GS,2,Infrastructure & Equipment,Braking,32
+2025-02-01,A DIVISION,GS,2,Infrastructure & Equipment,Service Delivery,1
+2025-02-01,B DIVISION,A,1,Crew Availability,Crew Availability,41
+2025-02-01,B DIVISION,A,1,External Factors,External Debris on Roadbed,17
+2025-02-01,B DIVISION,A,1,External Factors,Inclement Weather,4
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,Braking,13
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,Door-Related,10
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,"Fire, Smoke, Debris",28
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,Other - CE,24
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,Other - Sig,68
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,Other Infrastructure,23
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,Other Internal Disruptions,2
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,Propulsion,9
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,Rail and Roadbed,107
+2025-02-01,B DIVISION,A,1,Infrastructure & Equipment,Service Delivery,47
+2025-02-01,B DIVISION,A,1,Operating Conditions,Other Operating Environment,69
+2025-02-01,B DIVISION,A,1,Planned ROW Work,Capital Work - Other Planned ROW,5
+2025-02-01,B DIVISION,A,1,Planned ROW Work,Subways Maintenance,420
+2025-02-01,B DIVISION,A,1,Planned ROW Work,Work Equipment,30
+2025-02-01,B DIVISION,A,1,Police & Medical,Persons on Roadbed,70
+2025-02-01,B DIVISION,A,1,Police & Medical,"Public Conduct, Crime, Police Response",162
+2025-02-01,B DIVISION,A,1,Police & Medical,Sick/Injured Customer,43
+2025-02-01,B DIVISION,A,2,Crew Availability,Crew Availability,8
+2025-02-01,B DIVISION,A,2,External Factors,External Debris on Roadbed,7
+2025-02-01,B DIVISION,A,2,Infrastructure & Equipment,Braking,1
+2025-02-01,B DIVISION,A,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-02-01,B DIVISION,A,2,Infrastructure & Equipment,Other - CE,10
+2025-02-01,B DIVISION,A,2,Infrastructure & Equipment,Other - Sig,59
+2025-02-01,B DIVISION,A,2,Infrastructure & Equipment,Propulsion,9
+2025-02-01,B DIVISION,A,2,Infrastructure & Equipment,Rail and Roadbed,15
+2025-02-01,B DIVISION,A,2,Infrastructure & Equipment,Service Delivery,11
+2025-02-01,B DIVISION,A,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2
+2025-02-01,B DIVISION,A,2,Operating Conditions,Other Operating Environment,14
+2025-02-01,B DIVISION,A,2,Planned ROW Work,Capital Work - Other Planned ROW,26
+2025-02-01,B DIVISION,A,2,Planned ROW Work,Subways Maintenance,101
+2025-02-01,B DIVISION,A,2,Police & Medical,Persons on Roadbed,40
+2025-02-01,B DIVISION,A,2,Police & Medical,"Public Conduct, Crime, Police Response",30
+2025-02-01,B DIVISION,A,2,Police & Medical,Sick/Injured Customer,14
+2025-02-01,B DIVISION,B,1,Crew Availability,Crew Availability,76
+2025-02-01,B DIVISION,B,1,External Factors,External Debris on Roadbed,35
+2025-02-01,B DIVISION,B,1,External Factors,Inclement Weather,10
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Braking,51
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Door-Related,27
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,"Fire, Smoke, Debris",12
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Other - CE,219
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Other - Sig,135
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Propulsion,17
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Rail and Roadbed,40
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Service Delivery,103
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2025-02-01,B DIVISION,B,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,8
+2025-02-01,B DIVISION,B,1,Operating Conditions,Other Operating Environment,135
+2025-02-01,B DIVISION,B,1,Planned ROW Work,Capital Work - Other Planned ROW,4
+2025-02-01,B DIVISION,B,1,Planned ROW Work,Subways Maintenance,165
+2025-02-01,B DIVISION,B,1,Planned ROW Work,Work Equipment,24
+2025-02-01,B DIVISION,B,1,Police & Medical,Persons on Roadbed,12
+2025-02-01,B DIVISION,B,1,Police & Medical,"Public Conduct, Crime, Police Response",235
+2025-02-01,B DIVISION,B,1,Police & Medical,Sick/Injured Customer,49
+2025-02-01,B DIVISION,C,1,Crew Availability,Crew Availability,55
+2025-02-01,B DIVISION,C,1,External Factors,External Debris on Roadbed,10
+2025-02-01,B DIVISION,C,1,External Factors,Inclement Weather,1
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,Braking,32
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,Door-Related,14
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,"Fire, Smoke, Debris",19
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,Other - CE,63
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,Other - Sig,130
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,Other Infrastructure,6
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,Propulsion,4
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,Rail and Roadbed,96
+2025-02-01,B DIVISION,C,1,Infrastructure & Equipment,Service Delivery,52
+2025-02-01,B DIVISION,C,1,Operating Conditions,Other Operating Environment,127
+2025-02-01,B DIVISION,C,1,Planned ROW Work,Capital Work - Other Planned ROW,64
+2025-02-01,B DIVISION,C,1,Planned ROW Work,Subways Maintenance,87
+2025-02-01,B DIVISION,C,1,Planned ROW Work,Work Equipment,38
+2025-02-01,B DIVISION,C,1,Police & Medical,Persons on Roadbed,77
+2025-02-01,B DIVISION,C,1,Police & Medical,"Public Conduct, Crime, Police Response",177
+2025-02-01,B DIVISION,C,1,Police & Medical,Sick/Injured Customer,43
+2025-02-01,B DIVISION,C,2,Crew Availability,Crew Availability,7
+2025-02-01,B DIVISION,C,2,External Factors,External Debris on Roadbed,5
+2025-02-01,B DIVISION,C,2,Infrastructure & Equipment,Braking,2
+2025-02-01,B DIVISION,C,2,Infrastructure & Equipment,Other - CE,1
+2025-02-01,B DIVISION,C,2,Infrastructure & Equipment,Other - Sig,28
+2025-02-01,B DIVISION,C,2,Infrastructure & Equipment,Propulsion,6
+2025-02-01,B DIVISION,C,2,Infrastructure & Equipment,Rail and Roadbed,4
+2025-02-01,B DIVISION,C,2,Infrastructure & Equipment,Service Delivery,9
+2025-02-01,B DIVISION,C,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,3
+2025-02-01,B DIVISION,C,2,Operating Conditions,Other Operating Environment,27
+2025-02-01,B DIVISION,C,2,Planned ROW Work,Capital Work - Other Planned ROW,40
+2025-02-01,B DIVISION,C,2,Planned ROW Work,Subways Maintenance,18
+2025-02-01,B DIVISION,C,2,Police & Medical,Persons on Roadbed,28
+2025-02-01,B DIVISION,C,2,Police & Medical,"Public Conduct, Crime, Police Response",46
+2025-02-01,B DIVISION,C,2,Police & Medical,Sick/Injured Customer,14
+2025-02-01,B DIVISION,D,1,Crew Availability,Crew Availability,71
+2025-02-01,B DIVISION,D,1,External Factors,External Debris on Roadbed,30
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Braking,31
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Door-Related,19
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,"Fire, Smoke, Debris",3
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Other - CE,289
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Other - Sig,141
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Other Infrastructure,2
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Other Internal Disruptions,8
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Propulsion,38
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Rail and Roadbed,115
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Service Delivery,21
+2025-02-01,B DIVISION,D,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6
+2025-02-01,B DIVISION,D,1,Operating Conditions,Other Operating Environment,85
+2025-02-01,B DIVISION,D,1,Planned ROW Work,Other Planned ROW Work,1
+2025-02-01,B DIVISION,D,1,Planned ROW Work,Subways Maintenance,310
+2025-02-01,B DIVISION,D,1,Planned ROW Work,Work Equipment,57
+2025-02-01,B DIVISION,D,1,Police & Medical,Persons on Roadbed,27
+2025-02-01,B DIVISION,D,1,Police & Medical,"Public Conduct, Crime, Police Response",201
+2025-02-01,B DIVISION,D,1,Police & Medical,Sick/Injured Customer,26
+2025-02-01,B DIVISION,D,2,Crew Availability,Crew Availability,20
+2025-02-01,B DIVISION,D,2,External Factors,External Debris on Roadbed,4
+2025-02-01,B DIVISION,D,2,Infrastructure & Equipment,Door-Related,3
+2025-02-01,B DIVISION,D,2,Infrastructure & Equipment,"Fire, Smoke, Debris",5
+2025-02-01,B DIVISION,D,2,Infrastructure & Equipment,Other - CE,7
+2025-02-01,B DIVISION,D,2,Infrastructure & Equipment,Other - Sig,65
+2025-02-01,B DIVISION,D,2,Infrastructure & Equipment,Other Infrastructure,3
+2025-02-01,B DIVISION,D,2,Infrastructure & Equipment,Propulsion,3
+2025-02-01,B DIVISION,D,2,Infrastructure & Equipment,Rail and Roadbed,2
+2025-02-01,B DIVISION,D,2,Infrastructure & Equipment,Service Delivery,11
+2025-02-01,B DIVISION,D,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,5
+2025-02-01,B DIVISION,D,2,Operating Conditions,Other Operating Environment,3
+2025-02-01,B DIVISION,D,2,Planned ROW Work,Capital Work - Other Planned ROW,1
+2025-02-01,B DIVISION,D,2,Planned ROW Work,Subways Maintenance,96
+2025-02-01,B DIVISION,D,2,Planned ROW Work,Work Equipment,2
+2025-02-01,B DIVISION,D,2,Police & Medical,Persons on Roadbed,43
+2025-02-01,B DIVISION,D,2,Police & Medical,"Public Conduct, Crime, Police Response",89
+2025-02-01,B DIVISION,D,2,Police & Medical,Sick/Injured Customer,17
+2025-02-01,B DIVISION,E,1,Crew Availability,Crew Availability,30
+2025-02-01,B DIVISION,E,1,External Factors,External Debris on Roadbed,54
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Braking,27
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Door-Related,19
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,"Fire, Smoke, Debris",41
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Other - CE,333
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Other - Sig,24
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Other Infrastructure,15
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Other Internal Disruptions,12
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Propulsion,2
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Rail and Roadbed,347
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Service Delivery,40
+2025-02-01,B DIVISION,E,1,Infrastructure & Equipment,Signal Modernization Capital Project,81
+2025-02-01,B DIVISION,E,1,Operating Conditions,Other Operating Environment,61
+2025-02-01,B DIVISION,E,1,Planned ROW Work,Capital Work - Other Planned ROW,97
+2025-02-01,B DIVISION,E,1,Planned ROW Work,Subways Maintenance,483
+2025-02-01,B DIVISION,E,1,Planned ROW Work,Work Equipment,30
+2025-02-01,B DIVISION,E,1,Police & Medical,Persons on Roadbed,54
+2025-02-01,B DIVISION,E,1,Police & Medical,"Public Conduct, Crime, Police Response",158
+2025-02-01,B DIVISION,E,1,Police & Medical,Sick/Injured Customer,117
+2025-02-01,B DIVISION,E,2,Crew Availability,Crew Availability,11
+2025-02-01,B DIVISION,E,2,External Factors,External Debris on Roadbed,5
+2025-02-01,B DIVISION,E,2,Infrastructure & Equipment,"Fire, Smoke, Debris",5
+2025-02-01,B DIVISION,E,2,Infrastructure & Equipment,Other - Sig,61
+2025-02-01,B DIVISION,E,2,Infrastructure & Equipment,Other Infrastructure,1
+2025-02-01,B DIVISION,E,2,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-02-01,B DIVISION,E,2,Infrastructure & Equipment,Propulsion,5
+2025-02-01,B DIVISION,E,2,Infrastructure & Equipment,Service Delivery,6
+2025-02-01,B DIVISION,E,2,Infrastructure & Equipment,Signal Modernization Capital Project,3
+2025-02-01,B DIVISION,E,2,Planned ROW Work,Capital Work - Other Planned ROW,56
+2025-02-01,B DIVISION,E,2,Planned ROW Work,Subways Maintenance,122
+2025-02-01,B DIVISION,E,2,Police & Medical,Persons on Roadbed,68
+2025-02-01,B DIVISION,E,2,Police & Medical,"Public Conduct, Crime, Police Response",26
+2025-02-01,B DIVISION,E,2,Police & Medical,Sick/Injured Customer,4
+2025-02-01,B DIVISION,F,1,Crew Availability,Crew Availability,72
+2025-02-01,B DIVISION,F,1,External Factors,External Agency or Utility,2
+2025-02-01,B DIVISION,F,1,External Factors,External Debris on Roadbed,59
+2025-02-01,B DIVISION,F,1,External Factors,Inclement Weather,3
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Braking,24
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Door-Related,10
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,"Fire, Smoke, Debris",41
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Other - CE,245
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Other - Sig,134
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Other Infrastructure,44
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Other Internal Disruptions,95
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Propulsion,22
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Rail and Roadbed,284
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Service Delivery,62
+2025-02-01,B DIVISION,F,1,Infrastructure & Equipment,Signal Modernization Capital Project,143
+2025-02-01,B DIVISION,F,1,Operating Conditions,Other Operating Environment,152
+2025-02-01,B DIVISION,F,1,Planned ROW Work,Capital Work - Other Planned ROW,20
+2025-02-01,B DIVISION,F,1,Planned ROW Work,Subways Maintenance,572
+2025-02-01,B DIVISION,F,1,Planned ROW Work,Work Equipment,51
+2025-02-01,B DIVISION,F,1,Police & Medical,Persons on Roadbed,74
+2025-02-01,B DIVISION,F,1,Police & Medical,"Public Conduct, Crime, Police Response",239
+2025-02-01,B DIVISION,F,1,Police & Medical,Sick/Injured Customer,81
+2025-02-01,B DIVISION,F,2,Crew Availability,Crew Availability,13
+2025-02-01,B DIVISION,F,2,Infrastructure & Equipment,Door-Related,1
+2025-02-01,B DIVISION,F,2,Infrastructure & Equipment,Other - CE,3
+2025-02-01,B DIVISION,F,2,Infrastructure & Equipment,Other - Sig,44
+2025-02-01,B DIVISION,F,2,Infrastructure & Equipment,Other Infrastructure,35
+2025-02-01,B DIVISION,F,2,Infrastructure & Equipment,Other Internal Disruptions,8
+2025-02-01,B DIVISION,F,2,Infrastructure & Equipment,Propulsion,18
+2025-02-01,B DIVISION,F,2,Infrastructure & Equipment,Rail and Roadbed,2
+2025-02-01,B DIVISION,F,2,Infrastructure & Equipment,Service Delivery,6
+2025-02-01,B DIVISION,F,2,Infrastructure & Equipment,Signal Modernization Capital Project,13
+2025-02-01,B DIVISION,F,2,Operating Conditions,Other Operating Environment,2
+2025-02-01,B DIVISION,F,2,Planned ROW Work,Capital Work - Other Planned ROW,293
+2025-02-01,B DIVISION,F,2,Planned ROW Work,Subways Maintenance,152
+2025-02-01,B DIVISION,F,2,Planned ROW Work,Work Equipment,4
+2025-02-01,B DIVISION,F,2,Police & Medical,Persons on Roadbed,80
+2025-02-01,B DIVISION,F,2,Police & Medical,"Public Conduct, Crime, Police Response",48
+2025-02-01,B DIVISION,F,2,Police & Medical,Sick/Injured Customer,20
+2025-02-01,B DIVISION,G,1,Crew Availability,Crew Availability,14
+2025-02-01,B DIVISION,G,1,External Factors,External Agency or Utility,2
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Braking,21
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Door-Related,16
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Other - CE,21
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Other - Sig,107
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Other Infrastructure,42
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Other Internal Disruptions,27
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Propulsion,44
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Rail and Roadbed,43
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Service Delivery,34
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Signal Modernization Capital Project,27
+2025-02-01,B DIVISION,G,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,5
+2025-02-01,B DIVISION,G,1,Operating Conditions,Other Operating Environment,174
+2025-02-01,B DIVISION,G,1,Planned ROW Work,Capital Work - Other Planned ROW,125
+2025-02-01,B DIVISION,G,1,Planned ROW Work,Subways Maintenance,441
+2025-02-01,B DIVISION,G,1,Planned ROW Work,Work Equipment,29
+2025-02-01,B DIVISION,G,1,Police & Medical,Persons on Roadbed,21
+2025-02-01,B DIVISION,G,1,Police & Medical,"Public Conduct, Crime, Police Response",170
+2025-02-01,B DIVISION,G,1,Police & Medical,Sick/Injured Customer,22
+2025-02-01,B DIVISION,G,2,Crew Availability,Crew Availability,14
+2025-02-01,B DIVISION,G,2,Infrastructure & Equipment,Braking,12
+2025-02-01,B DIVISION,G,2,Infrastructure & Equipment,Door-Related,8
+2025-02-01,B DIVISION,G,2,Infrastructure & Equipment,Other - CE,10
+2025-02-01,B DIVISION,G,2,Infrastructure & Equipment,Other - Sig,18
+2025-02-01,B DIVISION,G,2,Infrastructure & Equipment,Other Internal Disruptions,6
+2025-02-01,B DIVISION,G,2,Infrastructure & Equipment,Service Delivery,4
+2025-02-01,B DIVISION,G,2,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2025-02-01,B DIVISION,G,2,Operating Conditions,Other Operating Environment,23
+2025-02-01,B DIVISION,G,2,Planned ROW Work,Capital Work - Other Planned ROW,146
+2025-02-01,B DIVISION,G,2,Planned ROW Work,Subways Maintenance,158
+2025-02-01,B DIVISION,G,2,Planned ROW Work,Work Equipment,2
+2025-02-01,B DIVISION,G,2,Police & Medical,"Public Conduct, Crime, Police Response",31
+2025-02-01,B DIVISION,G,2,Police & Medical,Sick/Injured Customer,13
+2025-02-01,B DIVISION,JZ,1,Crew Availability,Crew Availability,26
+2025-02-01,B DIVISION,JZ,1,External Factors,Inclement Weather,3
+2025-02-01,B DIVISION,JZ,1,Infrastructure & Equipment,Braking,4
+2025-02-01,B DIVISION,JZ,1,Infrastructure & Equipment,Door-Related,4
+2025-02-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other - CE,2
+2025-02-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other - Sig,100
+2025-02-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other Infrastructure,3
+2025-02-01,B DIVISION,JZ,1,Infrastructure & Equipment,Propulsion,29
+2025-02-01,B DIVISION,JZ,1,Infrastructure & Equipment,Rail and Roadbed,1
+2025-02-01,B DIVISION,JZ,1,Infrastructure & Equipment,Service Delivery,10
+2025-02-01,B DIVISION,JZ,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,1
+2025-02-01,B DIVISION,JZ,1,Operating Conditions,Other Operating Environment,54
+2025-02-01,B DIVISION,JZ,1,Planned ROW Work,Capital Work - Other Planned ROW,51
+2025-02-01,B DIVISION,JZ,1,Planned ROW Work,Subways Maintenance,185
+2025-02-01,B DIVISION,JZ,1,Planned ROW Work,Work Equipment,4
+2025-02-01,B DIVISION,JZ,1,Police & Medical,Persons on Roadbed,8
+2025-02-01,B DIVISION,JZ,1,Police & Medical,"Public Conduct, Crime, Police Response",97
+2025-02-01,B DIVISION,JZ,1,Police & Medical,Sick/Injured Customer,55
+2025-02-01,B DIVISION,JZ,2,External Factors,Inclement Weather,5
+2025-02-01,B DIVISION,JZ,2,Infrastructure & Equipment,Braking,11
+2025-02-01,B DIVISION,JZ,2,Infrastructure & Equipment,Door-Related,2
+2025-02-01,B DIVISION,JZ,2,Infrastructure & Equipment,Other - Sig,2
+2025-02-01,B DIVISION,JZ,2,Infrastructure & Equipment,Propulsion,2
+2025-02-01,B DIVISION,JZ,2,Infrastructure & Equipment,Rail and Roadbed,1
+2025-02-01,B DIVISION,JZ,2,Infrastructure & Equipment,Service Delivery,8
+2025-02-01,B DIVISION,JZ,2,Operating Conditions,Other Operating Environment,9
+2025-02-01,B DIVISION,JZ,2,Planned ROW Work,Capital Work - Other Planned ROW,1
+2025-02-01,B DIVISION,JZ,2,Planned ROW Work,Subways Maintenance,7
+2025-02-01,B DIVISION,JZ,2,Police & Medical,"Public Conduct, Crime, Police Response",7
+2025-02-01,B DIVISION,JZ,2,Police & Medical,Sick/Injured Customer,8
+2025-02-01,B DIVISION,L,1,Crew Availability,Crew Availability,62
+2025-02-01,B DIVISION,L,1,External Factors,External Debris on Roadbed,58
+2025-02-01,B DIVISION,L,1,Infrastructure & Equipment,Door-Related,21
+2025-02-01,B DIVISION,L,1,Infrastructure & Equipment,"Fire, Smoke, Debris",61
+2025-02-01,B DIVISION,L,1,Infrastructure & Equipment,Other - CE,35
+2025-02-01,B DIVISION,L,1,Infrastructure & Equipment,Other - Sig,95
+2025-02-01,B DIVISION,L,1,Infrastructure & Equipment,Other Infrastructure,18
+2025-02-01,B DIVISION,L,1,Infrastructure & Equipment,Other Internal Disruptions,47
+2025-02-01,B DIVISION,L,1,Infrastructure & Equipment,Propulsion,50
+2025-02-01,B DIVISION,L,1,Infrastructure & Equipment,Rail and Roadbed,1
+2025-02-01,B DIVISION,L,1,Infrastructure & Equipment,Service Delivery,90
+2025-02-01,B DIVISION,L,1,Operating Conditions,Other Operating Environment,15
+2025-02-01,B DIVISION,L,1,Planned ROW Work,Subways Maintenance,214
+2025-02-01,B DIVISION,L,1,Planned ROW Work,Work Equipment,13
+2025-02-01,B DIVISION,L,1,Police & Medical,Persons on Roadbed,29
+2025-02-01,B DIVISION,L,1,Police & Medical,"Public Conduct, Crime, Police Response",229
+2025-02-01,B DIVISION,L,1,Police & Medical,Sick/Injured Customer,68
+2025-02-01,B DIVISION,L,2,Crew Availability,Crew Availability,13
+2025-02-01,B DIVISION,L,2,External Factors,External Debris on Roadbed,32
+2025-02-01,B DIVISION,L,2,External Factors,Inclement Weather,3
+2025-02-01,B DIVISION,L,2,Infrastructure & Equipment,Braking,1
+2025-02-01,B DIVISION,L,2,Infrastructure & Equipment,Door-Related,11
+2025-02-01,B DIVISION,L,2,Infrastructure & Equipment,Other - CE,29
+2025-02-01,B DIVISION,L,2,Infrastructure & Equipment,Other - Sig,17
+2025-02-01,B DIVISION,L,2,Infrastructure & Equipment,Other Infrastructure,49
+2025-02-01,B DIVISION,L,2,Infrastructure & Equipment,Rail and Roadbed,13
+2025-02-01,B DIVISION,L,2,Infrastructure & Equipment,Service Delivery,5
+2025-02-01,B DIVISION,L,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,1
+2025-02-01,B DIVISION,L,2,Operating Conditions,Other Operating Environment,2
+2025-02-01,B DIVISION,L,2,Planned ROW Work,Subways Maintenance,20
+2025-02-01,B DIVISION,L,2,Police & Medical,Persons on Roadbed,1
+2025-02-01,B DIVISION,L,2,Police & Medical,"Public Conduct, Crime, Police Response",7
+2025-02-01,B DIVISION,M,1,Crew Availability,Crew Availability,53
+2025-02-01,B DIVISION,M,1,External Factors,External Debris on Roadbed,47
+2025-02-01,B DIVISION,M,1,External Factors,Inclement Weather,1
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Braking,34
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Door-Related,7
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,"Fire, Smoke, Debris",14
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Other - CE,13
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Other - Sig,103
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Other Infrastructure,16
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Other Internal Disruptions,24
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Propulsion,37
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Rail and Roadbed,142
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Service Delivery,24
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Signal Modernization Capital Project,61
+2025-02-01,B DIVISION,M,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,1
+2025-02-01,B DIVISION,M,1,Operating Conditions,Other Operating Environment,40
+2025-02-01,B DIVISION,M,1,Planned ROW Work,Capital Work - Other Planned ROW,20
+2025-02-01,B DIVISION,M,1,Planned ROW Work,Subways Maintenance,80
+2025-02-01,B DIVISION,M,1,Planned ROW Work,Work Equipment,21
+2025-02-01,B DIVISION,M,1,Police & Medical,Persons on Roadbed,17
+2025-02-01,B DIVISION,M,1,Police & Medical,"Public Conduct, Crime, Police Response",104
+2025-02-01,B DIVISION,M,1,Police & Medical,Sick/Injured Customer,55
+2025-02-01,B DIVISION,M,2,Crew Availability,Crew Availability,4
+2025-02-01,B DIVISION,M,2,Infrastructure & Equipment,Propulsion,4
+2025-02-01,B DIVISION,M,2,Infrastructure & Equipment,Service Delivery,2
+2025-02-01,B DIVISION,M,2,Operating Conditions,Other Operating Environment,2
+2025-02-01,B DIVISION,N,1,Crew Availability,Crew Availability,78
+2025-02-01,B DIVISION,N,1,External Factors,External Debris on Roadbed,6
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Braking,13
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Door-Related,44
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,"Fire, Smoke, Debris",18
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Other - CE,302
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Other - Sig,158
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Other Infrastructure,4
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Other Internal Disruptions,14
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Propulsion,66
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Rail and Roadbed,142
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Service Delivery,76
+2025-02-01,B DIVISION,N,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,1
+2025-02-01,B DIVISION,N,1,Operating Conditions,Other Operating Environment,104
+2025-02-01,B DIVISION,N,1,Planned ROW Work,Subways Maintenance,341
+2025-02-01,B DIVISION,N,1,Planned ROW Work,Work Equipment,78
+2025-02-01,B DIVISION,N,1,Police & Medical,Persons on Roadbed,67
+2025-02-01,B DIVISION,N,1,Police & Medical,"Public Conduct, Crime, Police Response",215
+2025-02-01,B DIVISION,N,1,Police & Medical,Sick/Injured Customer,143
+2025-02-01,B DIVISION,N,2,Crew Availability,Crew Availability,6
+2025-02-01,B DIVISION,N,2,External Factors,External Debris on Roadbed,1
+2025-02-01,B DIVISION,N,2,External Factors,Inclement Weather,9
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,Braking,8
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,Door-Related,17
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,"Fire, Smoke, Debris",20
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,Other - CE,17
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,Other - Sig,63
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,Other Infrastructure,17
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,Propulsion,10
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,Rail and Roadbed,1
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,Service Delivery,32
+2025-02-01,B DIVISION,N,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,19
+2025-02-01,B DIVISION,N,2,Operating Conditions,Other Operating Environment,24
+2025-02-01,B DIVISION,N,2,Planned ROW Work,Subways Maintenance,297
+2025-02-01,B DIVISION,N,2,Planned ROW Work,Work Equipment,13
+2025-02-01,B DIVISION,N,2,Police & Medical,Persons on Roadbed,22
+2025-02-01,B DIVISION,N,2,Police & Medical,"Public Conduct, Crime, Police Response",90
+2025-02-01,B DIVISION,N,2,Police & Medical,Sick/Injured Customer,15
+2025-02-01,B DIVISION,Q,1,Crew Availability,Crew Availability,36
+2025-02-01,B DIVISION,Q,1,External Factors,External Debris on Roadbed,11
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Braking,27
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Door-Related,18
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,"Fire, Smoke, Debris",13
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Other - CE,125
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Other - Sig,80
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Other Infrastructure,5
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Other Internal Disruptions,2
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Propulsion,25
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Rail and Roadbed,50
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Service Delivery,52
+2025-02-01,B DIVISION,Q,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,3
+2025-02-01,B DIVISION,Q,1,Operating Conditions,Other Operating Environment,144
+2025-02-01,B DIVISION,Q,1,Planned ROW Work,Capital Work - Other Planned ROW,5
+2025-02-01,B DIVISION,Q,1,Planned ROW Work,Subways Maintenance,154
+2025-02-01,B DIVISION,Q,1,Planned ROW Work,Work Equipment,59
+2025-02-01,B DIVISION,Q,1,Police & Medical,Persons on Roadbed,9
+2025-02-01,B DIVISION,Q,1,Police & Medical,"Public Conduct, Crime, Police Response",265
+2025-02-01,B DIVISION,Q,1,Police & Medical,Sick/Injured Customer,111
+2025-02-01,B DIVISION,Q,2,Crew Availability,Crew Availability,9
+2025-02-01,B DIVISION,Q,2,External Factors,External Debris on Roadbed,1
+2025-02-01,B DIVISION,Q,2,External Factors,Inclement Weather,4
+2025-02-01,B DIVISION,Q,2,Infrastructure & Equipment,Braking,3
+2025-02-01,B DIVISION,Q,2,Infrastructure & Equipment,Door-Related,17
+2025-02-01,B DIVISION,Q,2,Infrastructure & Equipment,Other - CE,3
+2025-02-01,B DIVISION,Q,2,Infrastructure & Equipment,Other - Sig,12
+2025-02-01,B DIVISION,Q,2,Infrastructure & Equipment,Other Infrastructure,4
+2025-02-01,B DIVISION,Q,2,Infrastructure & Equipment,Rail and Roadbed,4
+2025-02-01,B DIVISION,Q,2,Infrastructure & Equipment,Service Delivery,11
+2025-02-01,B DIVISION,Q,2,Operating Conditions,Other Operating Environment,9
+2025-02-01,B DIVISION,Q,2,Planned ROW Work,Subways Maintenance,44
+2025-02-01,B DIVISION,Q,2,Planned ROW Work,Work Equipment,18
+2025-02-01,B DIVISION,Q,2,Police & Medical,Persons on Roadbed,20
+2025-02-01,B DIVISION,Q,2,Police & Medical,"Public Conduct, Crime, Police Response",95
+2025-02-01,B DIVISION,Q,2,Police & Medical,Sick/Injured Customer,2
+2025-02-01,B DIVISION,R,1,Crew Availability,Crew Availability,17
+2025-02-01,B DIVISION,R,1,External Factors,External Debris on Roadbed,1
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Braking,6
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Door-Related,5
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,"Fire, Smoke, Debris",9
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Other - CE,969
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Other - Sig,57
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Other Infrastructure,24
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Other Internal Disruptions,18
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Propulsion,36
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Rail and Roadbed,83
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Service Delivery,39
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Signal Modernization Capital Project,27
+2025-02-01,B DIVISION,R,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,10
+2025-02-01,B DIVISION,R,1,Operating Conditions,Other Operating Environment,24
+2025-02-01,B DIVISION,R,1,Planned ROW Work,Capital Work - Other Planned ROW,13
+2025-02-01,B DIVISION,R,1,Planned ROW Work,Subways Maintenance,145
+2025-02-01,B DIVISION,R,1,Planned ROW Work,Work Equipment,19
+2025-02-01,B DIVISION,R,1,Police & Medical,Persons on Roadbed,11
+2025-02-01,B DIVISION,R,1,Police & Medical,"Public Conduct, Crime, Police Response",102
+2025-02-01,B DIVISION,R,1,Police & Medical,Sick/Injured Customer,39
+2025-02-01,B DIVISION,R,2,Crew Availability,Crew Availability,3
+2025-02-01,B DIVISION,R,2,Infrastructure & Equipment,Door-Related,10
+2025-02-01,B DIVISION,R,2,Infrastructure & Equipment,"Fire, Smoke, Debris",6
+2025-02-01,B DIVISION,R,2,Infrastructure & Equipment,Other - CE,18
+2025-02-01,B DIVISION,R,2,Infrastructure & Equipment,Other - Sig,45
+2025-02-01,B DIVISION,R,2,Infrastructure & Equipment,Other Internal Disruptions,2
+2025-02-01,B DIVISION,R,2,Infrastructure & Equipment,Propulsion,5
+2025-02-01,B DIVISION,R,2,Infrastructure & Equipment,Service Delivery,13
+2025-02-01,B DIVISION,R,2,Infrastructure & Equipment,Signal Modernization Capital Project,3
+2025-02-01,B DIVISION,R,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,17
+2025-02-01,B DIVISION,R,2,Operating Conditions,Other Operating Environment,11
+2025-02-01,B DIVISION,R,2,Planned ROW Work,Capital Work - Other Planned ROW,2
+2025-02-01,B DIVISION,R,2,Planned ROW Work,Subways Maintenance,57
+2025-02-01,B DIVISION,R,2,Planned ROW Work,Work Equipment,6
+2025-02-01,B DIVISION,R,2,Police & Medical,Persons on Roadbed,48
+2025-02-01,B DIVISION,R,2,Police & Medical,"Public Conduct, Crime, Police Response",39
+2025-02-01,B DIVISION,R,2,Police & Medical,Sick/Injured Customer,8
+2025-02-01,B DIVISION,S Fkln,1,Infrastructure & Equipment,Braking,3
+2025-02-01,B DIVISION,S Fkln,1,Planned ROW Work,Work Equipment,6
+2025-02-01,B DIVISION,S Fkln,1,Police & Medical,"Public Conduct, Crime, Police Response",2
+2025-02-01,B DIVISION,S Fkln,1,Police & Medical,Sick/Injured Customer,6
+2025-02-01,B DIVISION,S Fkln,2,Planned ROW Work,Work Equipment,2
+2025-02-01,B DIVISION,S Fkln,2,Police & Medical,"Public Conduct, Crime, Police Response",3
+2025-02-01,B DIVISION,S Rock,1,External Factors,External Agency or Utility,6
+2025-02-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Other - CE,3
+2025-02-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Other - Sig,2
+2025-02-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Service Delivery,1
+2025-02-01,B DIVISION,S Rock,1,Operating Conditions,Other Operating Environment,1
+2025-02-01,B DIVISION,S Rock,1,Police & Medical,"Public Conduct, Crime, Police Response",1
+2025-02-01,B DIVISION,S Rock,2,External Factors,External Agency or Utility,1
+2025-02-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,1
+2025-02-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Propulsion,1
+2025-02-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,1
+2025-02-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",18
+2025-03-01,A DIVISION,1,1,Crew Availability,Crew Availability,94
+2025-03-01,A DIVISION,1,1,External Factors,External Debris on Roadbed,70
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,Braking,14
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,45
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,"Fire, Smoke, Debris",26
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,Other - CE,63
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,Other - Sig,194
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,Other Infrastructure,21
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,Rail and Roadbed,40
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,Service Delivery,71
+2025-03-01,A DIVISION,1,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2
+2025-03-01,A DIVISION,1,1,Operating Conditions,Other Operating Environment,126
+2025-03-01,A DIVISION,1,1,Operating Conditions,Service Management,3
+2025-03-01,A DIVISION,1,1,Planned ROW Work,Capital Work - Other Planned ROW,173
+2025-03-01,A DIVISION,1,1,Planned ROW Work,Subways Maintenance,339
+2025-03-01,A DIVISION,1,1,Planned ROW Work,Work Equipment,32
+2025-03-01,A DIVISION,1,1,Police & Medical,Persons on Roadbed,262
+2025-03-01,A DIVISION,1,1,Police & Medical,"Public Conduct, Crime, Police Response",336
+2025-03-01,A DIVISION,1,1,Police & Medical,Sick/Injured Customer,87
+2025-03-01,A DIVISION,1,2,Crew Availability,Crew Availability,12
+2025-03-01,A DIVISION,1,2,Infrastructure & Equipment,Braking,1
+2025-03-01,A DIVISION,1,2,Infrastructure & Equipment,Door-Related,8
+2025-03-01,A DIVISION,1,2,Infrastructure & Equipment,Other - CE,1
+2025-03-01,A DIVISION,1,2,Infrastructure & Equipment,Other - Sig,41
+2025-03-01,A DIVISION,1,2,Infrastructure & Equipment,Other Internal Disruptions,2
+2025-03-01,A DIVISION,1,2,Infrastructure & Equipment,Rail and Roadbed,15
+2025-03-01,A DIVISION,1,2,Infrastructure & Equipment,Service Delivery,23
+2025-03-01,A DIVISION,1,2,Operating Conditions,Other Operating Environment,11
+2025-03-01,A DIVISION,1,2,Planned ROW Work,Capital Work - Other Planned ROW,20
+2025-03-01,A DIVISION,1,2,Planned ROW Work,Insufficient Supplement Schedule,1
+2025-03-01,A DIVISION,1,2,Planned ROW Work,Subways Maintenance,149
+2025-03-01,A DIVISION,1,2,Planned ROW Work,Work Equipment,4
+2025-03-01,A DIVISION,1,2,Police & Medical,"Public Conduct, Crime, Police Response",76
+2025-03-01,A DIVISION,1,2,Police & Medical,Sick/Injured Customer,7
+2025-03-01,A DIVISION,2,1,Crew Availability,Crew Availability,80
+2025-03-01,A DIVISION,2,1,External Factors,External Debris on Roadbed,3
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Braking,41
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Door-Related,4
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,"Fire, Smoke, Debris",32
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Other - CE,19
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Other - Sig,266
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Other Infrastructure,45
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Other Internal Disruptions,13
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Propulsion,4
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Rail and Roadbed,112
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Service Delivery,62
+2025-03-01,A DIVISION,2,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,7
+2025-03-01,A DIVISION,2,1,Operating Conditions,Other Operating Environment,130
+2025-03-01,A DIVISION,2,1,Planned ROW Work,Capital Work - Other Planned ROW,11
+2025-03-01,A DIVISION,2,1,Planned ROW Work,Subways Maintenance,484
+2025-03-01,A DIVISION,2,1,Planned ROW Work,Work Equipment,28
+2025-03-01,A DIVISION,2,1,Police & Medical,Persons on Roadbed,208
+2025-03-01,A DIVISION,2,1,Police & Medical,"Public Conduct, Crime, Police Response",341
+2025-03-01,A DIVISION,2,1,Police & Medical,Sick/Injured Customer,94
+2025-03-01,A DIVISION,2,2,Crew Availability,Crew Availability,26
+2025-03-01,A DIVISION,2,2,External Factors,External Debris on Roadbed,17
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,Braking,1
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,Door-Related,10
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,Other - CE,2
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,Other - Sig,29
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,Other Infrastructure,32
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,Other Internal Disruptions,3
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,Rail and Roadbed,5
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,Service Delivery,19
+2025-03-01,A DIVISION,2,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,18
+2025-03-01,A DIVISION,2,2,Operating Conditions,Other Operating Environment,130
+2025-03-01,A DIVISION,2,2,Planned ROW Work,Capital Work - Other Planned ROW,9
+2025-03-01,A DIVISION,2,2,Planned ROW Work,Subways Maintenance,196
+2025-03-01,A DIVISION,2,2,Planned ROW Work,Work Equipment,2
+2025-03-01,A DIVISION,2,2,Police & Medical,Persons on Roadbed,4
+2025-03-01,A DIVISION,2,2,Police & Medical,"Public Conduct, Crime, Police Response",149
+2025-03-01,A DIVISION,2,2,Police & Medical,Sick/Injured Customer,20
+2025-03-01,A DIVISION,3,1,Crew Availability,Crew Availability,45
+2025-03-01,A DIVISION,3,1,External Factors,External Debris on Roadbed,3
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Braking,30
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Door-Related,3
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,"Fire, Smoke, Debris",9
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Other - CE,12
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Other - Sig,96
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Other Infrastructure,55
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Other Internal Disruptions,6
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Propulsion,12
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Rail and Roadbed,79
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Service Delivery,32
+2025-03-01,A DIVISION,3,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,3
+2025-03-01,A DIVISION,3,1,Operating Conditions,Other Operating Environment,60
+2025-03-01,A DIVISION,3,1,Planned ROW Work,Capital Work - Other Planned ROW,52
+2025-03-01,A DIVISION,3,1,Planned ROW Work,Subways Maintenance,131
+2025-03-01,A DIVISION,3,1,Planned ROW Work,Work Equipment,47
+2025-03-01,A DIVISION,3,1,Police & Medical,Persons on Roadbed,172
+2025-03-01,A DIVISION,3,1,Police & Medical,"Public Conduct, Crime, Police Response",168
+2025-03-01,A DIVISION,3,1,Police & Medical,Sick/Injured Customer,78
+2025-03-01,A DIVISION,3,2,Crew Availability,Crew Availability,23
+2025-03-01,A DIVISION,3,2,External Factors,External Debris on Roadbed,39
+2025-03-01,A DIVISION,3,2,Infrastructure & Equipment,Door-Related,9
+2025-03-01,A DIVISION,3,2,Infrastructure & Equipment,Other - Sig,28
+2025-03-01,A DIVISION,3,2,Infrastructure & Equipment,Other Infrastructure,2
+2025-03-01,A DIVISION,3,2,Infrastructure & Equipment,Rail and Roadbed,9
+2025-03-01,A DIVISION,3,2,Infrastructure & Equipment,Service Delivery,12
+2025-03-01,A DIVISION,3,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,7
+2025-03-01,A DIVISION,3,2,Operating Conditions,Other Operating Environment,48
+2025-03-01,A DIVISION,3,2,Planned ROW Work,Capital Work - Other Planned ROW,3
+2025-03-01,A DIVISION,3,2,Planned ROW Work,Subways Maintenance,339
+2025-03-01,A DIVISION,3,2,Planned ROW Work,Work Equipment,3
+2025-03-01,A DIVISION,3,2,Police & Medical,Persons on Roadbed,7
+2025-03-01,A DIVISION,3,2,Police & Medical,"Public Conduct, Crime, Police Response",93
+2025-03-01,A DIVISION,3,2,Police & Medical,Sick/Injured Customer,11
+2025-03-01,A DIVISION,4,1,Crew Availability,Crew Availability,68
+2025-03-01,A DIVISION,4,1,External Factors,External Debris on Roadbed,5
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Braking,17
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Door-Related,4
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,"Fire, Smoke, Debris",20
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Other - CE,11
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Other - Sig,149
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Other Infrastructure,75
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Other Internal Disruptions,5
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Propulsion,6
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Rail and Roadbed,53
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Service Delivery,22
+2025-03-01,A DIVISION,4,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,11
+2025-03-01,A DIVISION,4,1,Operating Conditions,Other Operating Environment,25
+2025-03-01,A DIVISION,4,1,Planned ROW Work,Capital Work - Other Planned ROW,13
+2025-03-01,A DIVISION,4,1,Planned ROW Work,Subways Maintenance,105
+2025-03-01,A DIVISION,4,1,Planned ROW Work,Work Equipment,37
+2025-03-01,A DIVISION,4,1,Police & Medical,Persons on Roadbed,226
+2025-03-01,A DIVISION,4,1,Police & Medical,"Public Conduct, Crime, Police Response",222
+2025-03-01,A DIVISION,4,1,Police & Medical,Sick/Injured Customer,90
+2025-03-01,A DIVISION,4,2,Crew Availability,Crew Availability,8
+2025-03-01,A DIVISION,4,2,Infrastructure & Equipment,Braking,9
+2025-03-01,A DIVISION,4,2,Infrastructure & Equipment,Door-Related,6
+2025-03-01,A DIVISION,4,2,Infrastructure & Equipment,"Fire, Smoke, Debris",6
+2025-03-01,A DIVISION,4,2,Infrastructure & Equipment,Other - CE,2
+2025-03-01,A DIVISION,4,2,Infrastructure & Equipment,Other - Sig,26
+2025-03-01,A DIVISION,4,2,Infrastructure & Equipment,Other Infrastructure,5
+2025-03-01,A DIVISION,4,2,Infrastructure & Equipment,Rail and Roadbed,20
+2025-03-01,A DIVISION,4,2,Infrastructure & Equipment,Service Delivery,24
+2025-03-01,A DIVISION,4,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,21
+2025-03-01,A DIVISION,4,2,Operating Conditions,Other Operating Environment,92
+2025-03-01,A DIVISION,4,2,Planned ROW Work,Capital Work - Other Planned ROW,3
+2025-03-01,A DIVISION,4,2,Planned ROW Work,Subways Maintenance,26
+2025-03-01,A DIVISION,4,2,Planned ROW Work,Work Equipment,12
+2025-03-01,A DIVISION,4,2,Police & Medical,Persons on Roadbed,4
+2025-03-01,A DIVISION,4,2,Police & Medical,"Public Conduct, Crime, Police Response",106
+2025-03-01,A DIVISION,4,2,Police & Medical,Sick/Injured Customer,13
+2025-03-01,A DIVISION,5,1,Crew Availability,Crew Availability,27
+2025-03-01,A DIVISION,5,1,External Factors,External Debris on Roadbed,5
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Braking,14
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Door-Related,4
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,"Fire, Smoke, Debris",65
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Other - CE,6
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Other - Sig,232
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Other Infrastructure,62
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Other Internal Disruptions,1
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Propulsion,11
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Rail and Roadbed,36
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Service Delivery,24
+2025-03-01,A DIVISION,5,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,7
+2025-03-01,A DIVISION,5,1,Operating Conditions,Other Operating Environment,68
+2025-03-01,A DIVISION,5,1,Planned ROW Work,Capital Work - Other Planned ROW,10
+2025-03-01,A DIVISION,5,1,Planned ROW Work,Subways Maintenance,100
+2025-03-01,A DIVISION,5,1,Planned ROW Work,Work Equipment,40
+2025-03-01,A DIVISION,5,1,Police & Medical,Persons on Roadbed,189
+2025-03-01,A DIVISION,5,1,Police & Medical,"Public Conduct, Crime, Police Response",382
+2025-03-01,A DIVISION,5,1,Police & Medical,Sick/Injured Customer,104
+2025-03-01,A DIVISION,5,2,Crew Availability,Crew Availability,9
+2025-03-01,A DIVISION,5,2,Infrastructure & Equipment,Braking,4
+2025-03-01,A DIVISION,5,2,Infrastructure & Equipment,Door-Related,1
+2025-03-01,A DIVISION,5,2,Infrastructure & Equipment,"Fire, Smoke, Debris",3
+2025-03-01,A DIVISION,5,2,Infrastructure & Equipment,Other - Sig,18
+2025-03-01,A DIVISION,5,2,Infrastructure & Equipment,Rail and Roadbed,17
+2025-03-01,A DIVISION,5,2,Infrastructure & Equipment,Service Delivery,17
+2025-03-01,A DIVISION,5,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,7
+2025-03-01,A DIVISION,5,2,Operating Conditions,Other Operating Environment,66
+2025-03-01,A DIVISION,5,2,Planned ROW Work,Capital Work - Other Planned ROW,6
+2025-03-01,A DIVISION,5,2,Planned ROW Work,Subways Maintenance,45
+2025-03-01,A DIVISION,5,2,Planned ROW Work,Work Equipment,3
+2025-03-01,A DIVISION,5,2,Police & Medical,"Public Conduct, Crime, Police Response",88
+2025-03-01,A DIVISION,5,2,Police & Medical,Sick/Injured Customer,9
+2025-03-01,A DIVISION,6,1,Crew Availability,Crew Availability,85
+2025-03-01,A DIVISION,6,1,External Factors,External Debris on Roadbed,5
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Braking,49
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Door-Related,71
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,"Fire, Smoke, Debris",52
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Other - CE,18
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Other - Sig,78
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Other Infrastructure,65
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Other Internal Disruptions,18
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Propulsion,20
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Rail and Roadbed,69
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Service Delivery,44
+2025-03-01,A DIVISION,6,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,11
+2025-03-01,A DIVISION,6,1,Operating Conditions,Other Operating Environment,154
+2025-03-01,A DIVISION,6,1,Operating Conditions,Service Management,127
+2025-03-01,A DIVISION,6,1,Planned ROW Work,Capital Work - Other Planned ROW,50
+2025-03-01,A DIVISION,6,1,Planned ROW Work,Subways Maintenance,276
+2025-03-01,A DIVISION,6,1,Planned ROW Work,Work Equipment,54
+2025-03-01,A DIVISION,6,1,Police & Medical,Persons on Roadbed,250
+2025-03-01,A DIVISION,6,1,Police & Medical,"Public Conduct, Crime, Police Response",366
+2025-03-01,A DIVISION,6,1,Police & Medical,Sick/Injured Customer,123
+2025-03-01,A DIVISION,6,2,Crew Availability,Crew Availability,15
+2025-03-01,A DIVISION,6,2,External Factors,External Debris on Roadbed,1
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,Braking,54
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,Door-Related,1
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,Other - CE,1
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,Other - Sig,18
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,Other Infrastructure,2
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,Other Internal Disruptions,12
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,Propulsion,4
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,Rail and Roadbed,19
+2025-03-01,A DIVISION,6,2,Infrastructure & Equipment,Service Delivery,13
+2025-03-01,A DIVISION,6,2,Operating Conditions,Other Operating Environment,31
+2025-03-01,A DIVISION,6,2,Planned ROW Work,Capital Work - Other Planned ROW,39
+2025-03-01,A DIVISION,6,2,Planned ROW Work,Subways Maintenance,86
+2025-03-01,A DIVISION,6,2,Planned ROW Work,Work Equipment,6
+2025-03-01,A DIVISION,6,2,Police & Medical,Persons on Roadbed,18
+2025-03-01,A DIVISION,6,2,Police & Medical,"Public Conduct, Crime, Police Response",90
+2025-03-01,A DIVISION,6,2,Police & Medical,Sick/Injured Customer,19
+2025-03-01,A DIVISION,7,1,Crew Availability,Crew Availability,129
+2025-03-01,A DIVISION,7,1,External Factors,Inclement Weather,8
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Braking,16
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Door-Related,2
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,"Fire, Smoke, Debris",45
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Other - CE,38
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Other - Sig,62
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Other Infrastructure,26
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Other Internal Disruptions,52
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Propulsion,7
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Rail and Roadbed,70
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Service Delivery,131
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Signal Modernization Capital Project,27
+2025-03-01,A DIVISION,7,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,41
+2025-03-01,A DIVISION,7,1,Operating Conditions,Other Operating Environment,53
+2025-03-01,A DIVISION,7,1,Planned ROW Work,Capital Work - Other Planned ROW,11
+2025-03-01,A DIVISION,7,1,Planned ROW Work,Subways Maintenance,190
+2025-03-01,A DIVISION,7,1,Planned ROW Work,Work Equipment,21
+2025-03-01,A DIVISION,7,1,Police & Medical,Persons on Roadbed,212
+2025-03-01,A DIVISION,7,1,Police & Medical,"Public Conduct, Crime, Police Response",216
+2025-03-01,A DIVISION,7,1,Police & Medical,Sick/Injured Customer,50
+2025-03-01,A DIVISION,7,2,Crew Availability,Crew Availability,14
+2025-03-01,A DIVISION,7,2,Infrastructure & Equipment,"Fire, Smoke, Debris",12
+2025-03-01,A DIVISION,7,2,Infrastructure & Equipment,Other - Sig,12
+2025-03-01,A DIVISION,7,2,Infrastructure & Equipment,Other Infrastructure,7
+2025-03-01,A DIVISION,7,2,Infrastructure & Equipment,Other Internal Disruptions,2
+2025-03-01,A DIVISION,7,2,Infrastructure & Equipment,Rail and Roadbed,1
+2025-03-01,A DIVISION,7,2,Infrastructure & Equipment,Service Delivery,2
+2025-03-01,A DIVISION,7,2,Operating Conditions,Other Operating Environment,4
+2025-03-01,A DIVISION,7,2,Planned ROW Work,Capital Work - Other Planned ROW,14
+2025-03-01,A DIVISION,7,2,Planned ROW Work,Subways Maintenance,34
+2025-03-01,A DIVISION,7,2,Planned ROW Work,Work Equipment,3
+2025-03-01,A DIVISION,7,2,Police & Medical,Persons on Roadbed,11
+2025-03-01,A DIVISION,7,2,Police & Medical,"Public Conduct, Crime, Police Response",13
+2025-03-01,A DIVISION,7,2,Police & Medical,Sick/Injured Customer,4
+2025-03-01,A DIVISION,GS,1,Police & Medical,"Public Conduct, Crime, Police Response",12
+2025-03-01,A DIVISION,GS,1,Police & Medical,Sick/Injured Customer,2
+2025-03-01,A DIVISION,GS,2,Infrastructure & Equipment,Service Delivery,2
+2025-03-01,A DIVISION,GS,2,Police & Medical,"Public Conduct, Crime, Police Response",4
+2025-03-01,B DIVISION,A,1,Crew Availability,Crew Availability,55
+2025-03-01,B DIVISION,A,1,External Factors,External Debris on Roadbed,1
+2025-03-01,B DIVISION,A,1,External Factors,Inclement Weather,4
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Braking,3
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Door-Related,13
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,"Fire, Smoke, Debris",46
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Other - CE,39
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Other - Sig,191
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Other Infrastructure,12
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Other Internal Disruptions,3
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Propulsion,1
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Rail and Roadbed,23
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Service Delivery,29
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Signal Modernization Capital Project,5
+2025-03-01,B DIVISION,A,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,7
+2025-03-01,B DIVISION,A,1,Operating Conditions,Other Operating Environment,51
+2025-03-01,B DIVISION,A,1,Planned ROW Work,Capital Work - Other Planned ROW,10
+2025-03-01,B DIVISION,A,1,Planned ROW Work,Subways Maintenance,381
+2025-03-01,B DIVISION,A,1,Planned ROW Work,Work Equipment,60
+2025-03-01,B DIVISION,A,1,Police & Medical,Persons on Roadbed,7
+2025-03-01,B DIVISION,A,1,Police & Medical,"Public Conduct, Crime, Police Response",138
+2025-03-01,B DIVISION,A,1,Police & Medical,Sick/Injured Customer,35
+2025-03-01,B DIVISION,A,2,Crew Availability,Crew Availability,26
+2025-03-01,B DIVISION,A,2,External Factors,External Debris on Roadbed,2
+2025-03-01,B DIVISION,A,2,Infrastructure & Equipment,Braking,4
+2025-03-01,B DIVISION,A,2,Infrastructure & Equipment,Door-Related,1
+2025-03-01,B DIVISION,A,2,Infrastructure & Equipment,Other - CE,2
+2025-03-01,B DIVISION,A,2,Infrastructure & Equipment,Other - Sig,70
+2025-03-01,B DIVISION,A,2,Infrastructure & Equipment,Other Infrastructure,5
+2025-03-01,B DIVISION,A,2,Infrastructure & Equipment,Rail and Roadbed,5
+2025-03-01,B DIVISION,A,2,Infrastructure & Equipment,Service Delivery,29
+2025-03-01,B DIVISION,A,2,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2025-03-01,B DIVISION,A,2,Operating Conditions,Other Operating Environment,5
+2025-03-01,B DIVISION,A,2,Planned ROW Work,Capital Work - Other Planned ROW,91
+2025-03-01,B DIVISION,A,2,Planned ROW Work,Subways Maintenance,127
+2025-03-01,B DIVISION,A,2,Planned ROW Work,Work Equipment,6
+2025-03-01,B DIVISION,A,2,Police & Medical,Persons on Roadbed,48
+2025-03-01,B DIVISION,A,2,Police & Medical,"Public Conduct, Crime, Police Response",73
+2025-03-01,B DIVISION,A,2,Police & Medical,Sick/Injured Customer,7
+2025-03-01,B DIVISION,B,1,Crew Availability,Crew Availability,80
+2025-03-01,B DIVISION,B,1,External Factors,External Agency or Utility,40
+2025-03-01,B DIVISION,B,1,External Factors,External Debris on Roadbed,12
+2025-03-01,B DIVISION,B,1,Infrastructure & Equipment,Braking,21
+2025-03-01,B DIVISION,B,1,Infrastructure & Equipment,Door-Related,45
+2025-03-01,B DIVISION,B,1,Infrastructure & Equipment,"Fire, Smoke, Debris",41
+2025-03-01,B DIVISION,B,1,Infrastructure & Equipment,Other - CE,247
+2025-03-01,B DIVISION,B,1,Infrastructure & Equipment,Other - Sig,70
+2025-03-01,B DIVISION,B,1,Infrastructure & Equipment,Other Internal Disruptions,2
+2025-03-01,B DIVISION,B,1,Infrastructure & Equipment,Rail and Roadbed,25
+2025-03-01,B DIVISION,B,1,Infrastructure & Equipment,Service Delivery,39
+2025-03-01,B DIVISION,B,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,3
+2025-03-01,B DIVISION,B,1,Operating Conditions,Other Operating Environment,99
+2025-03-01,B DIVISION,B,1,Planned ROW Work,Capital Work - Other Planned ROW,4
+2025-03-01,B DIVISION,B,1,Planned ROW Work,Subways Maintenance,111
+2025-03-01,B DIVISION,B,1,Planned ROW Work,Work Equipment,34
+2025-03-01,B DIVISION,B,1,Police & Medical,Persons on Roadbed,32
+2025-03-01,B DIVISION,B,1,Police & Medical,"Public Conduct, Crime, Police Response",189
+2025-03-01,B DIVISION,B,1,Police & Medical,Sick/Injured Customer,48
+2025-03-01,B DIVISION,C,1,Crew Availability,Crew Availability,49
+2025-03-01,B DIVISION,C,1,External Factors,External Debris on Roadbed,9
+2025-03-01,B DIVISION,C,1,External Factors,Inclement Weather,3
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Braking,17
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Door-Related,32
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,"Fire, Smoke, Debris",33
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Other - CE,12
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Other - Sig,152
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Other Infrastructure,2
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Other Internal Disruptions,5
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Propulsion,1
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Rail and Roadbed,26
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Service Delivery,34
+2025-03-01,B DIVISION,C,1,Infrastructure & Equipment,Signal Modernization Capital Project,2
+2025-03-01,B DIVISION,C,1,Operating Conditions,Other Operating Environment,210
+2025-03-01,B DIVISION,C,1,Planned ROW Work,Capital Work - Other Planned ROW,99
+2025-03-01,B DIVISION,C,1,Planned ROW Work,Subways Maintenance,146
+2025-03-01,B DIVISION,C,1,Planned ROW Work,Work Equipment,33
+2025-03-01,B DIVISION,C,1,Police & Medical,Persons on Roadbed,30
+2025-03-01,B DIVISION,C,1,Police & Medical,"Public Conduct, Crime, Police Response",223
+2025-03-01,B DIVISION,C,1,Police & Medical,Sick/Injured Customer,61
+2025-03-01,B DIVISION,C,2,Crew Availability,Crew Availability,22
+2025-03-01,B DIVISION,C,2,External Factors,External Debris on Roadbed,10
+2025-03-01,B DIVISION,C,2,Infrastructure & Equipment,Braking,6
+2025-03-01,B DIVISION,C,2,Infrastructure & Equipment,Door-Related,1
+2025-03-01,B DIVISION,C,2,Infrastructure & Equipment,"Fire, Smoke, Debris",2
+2025-03-01,B DIVISION,C,2,Infrastructure & Equipment,Other - CE,4
+2025-03-01,B DIVISION,C,2,Infrastructure & Equipment,Other - Sig,67
+2025-03-01,B DIVISION,C,2,Infrastructure & Equipment,Rail and Roadbed,3
+2025-03-01,B DIVISION,C,2,Infrastructure & Equipment,Service Delivery,26
+2025-03-01,B DIVISION,C,2,Operating Conditions,Other Operating Environment,30
+2025-03-01,B DIVISION,C,2,Planned ROW Work,Capital Work - Other Planned ROW,151
+2025-03-01,B DIVISION,C,2,Planned ROW Work,Subways Maintenance,63
+2025-03-01,B DIVISION,C,2,Planned ROW Work,Work Equipment,1
+2025-03-01,B DIVISION,C,2,Police & Medical,Persons on Roadbed,24
+2025-03-01,B DIVISION,C,2,Police & Medical,"Public Conduct, Crime, Police Response",74
+2025-03-01,B DIVISION,C,2,Police & Medical,Sick/Injured Customer,16
+2025-03-01,B DIVISION,D,1,Crew Availability,Crew Availability,55
+2025-03-01,B DIVISION,D,1,External Factors,External Agency or Utility,80
+2025-03-01,B DIVISION,D,1,External Factors,External Debris on Roadbed,5
+2025-03-01,B DIVISION,D,1,External Factors,Inclement Weather,25
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Braking,4
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Door-Related,12
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,"Fire, Smoke, Debris",38
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Other - CE,168
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Other - Sig,103
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Other Infrastructure,12
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Other Internal Disruptions,3
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Propulsion,10
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Rail and Roadbed,51
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Service Delivery,26
+2025-03-01,B DIVISION,D,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,14
+2025-03-01,B DIVISION,D,1,Operating Conditions,Other Operating Environment,40
+2025-03-01,B DIVISION,D,1,Planned ROW Work,Subways Maintenance,195
+2025-03-01,B DIVISION,D,1,Planned ROW Work,Work Equipment,115
+2025-03-01,B DIVISION,D,1,Police & Medical,Persons on Roadbed,29
+2025-03-01,B DIVISION,D,1,Police & Medical,"Public Conduct, Crime, Police Response",175
+2025-03-01,B DIVISION,D,1,Police & Medical,Sick/Injured Customer,44
+2025-03-01,B DIVISION,D,2,Crew Availability,Crew Availability,44
+2025-03-01,B DIVISION,D,2,Infrastructure & Equipment,Braking,2
+2025-03-01,B DIVISION,D,2,Infrastructure & Equipment,Door-Related,1
+2025-03-01,B DIVISION,D,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-03-01,B DIVISION,D,2,Infrastructure & Equipment,Other - CE,2
+2025-03-01,B DIVISION,D,2,Infrastructure & Equipment,Other - Sig,10
+2025-03-01,B DIVISION,D,2,Infrastructure & Equipment,Rail and Roadbed,9
+2025-03-01,B DIVISION,D,2,Infrastructure & Equipment,Service Delivery,3
+2025-03-01,B DIVISION,D,2,Operating Conditions,Other Operating Environment,3
+2025-03-01,B DIVISION,D,2,Planned ROW Work,Subways Maintenance,64
+2025-03-01,B DIVISION,D,2,Police & Medical,Persons on Roadbed,12
+2025-03-01,B DIVISION,D,2,Police & Medical,"Public Conduct, Crime, Police Response",76
+2025-03-01,B DIVISION,D,2,Police & Medical,Sick/Injured Customer,13
+2025-03-01,B DIVISION,E,1,Crew Availability,Crew Availability,37
+2025-03-01,B DIVISION,E,1,External Factors,External Agency or Utility,21
+2025-03-01,B DIVISION,E,1,External Factors,External Debris on Roadbed,14
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Braking,6
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Door-Related,25
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,"Fire, Smoke, Debris",33
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Other - CE,237
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Other - Sig,71
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Other Infrastructure,25
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Other Internal Disruptions,50
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Propulsion,7
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Rail and Roadbed,121
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Service Delivery,15
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Signal Modernization Capital Project,81
+2025-03-01,B DIVISION,E,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,47
+2025-03-01,B DIVISION,E,1,Operating Conditions,Other Operating Environment,93
+2025-03-01,B DIVISION,E,1,Planned ROW Work,Capital Work - Other Planned ROW,58
+2025-03-01,B DIVISION,E,1,Planned ROW Work,Subways Maintenance,565
+2025-03-01,B DIVISION,E,1,Planned ROW Work,Work Equipment,26
+2025-03-01,B DIVISION,E,1,Police & Medical,Persons on Roadbed,240
+2025-03-01,B DIVISION,E,1,Police & Medical,"Public Conduct, Crime, Police Response",161
+2025-03-01,B DIVISION,E,1,Police & Medical,Sick/Injured Customer,48
+2025-03-01,B DIVISION,E,2,Crew Availability,Crew Availability,7
+2025-03-01,B DIVISION,E,2,Infrastructure & Equipment,Braking,2
+2025-03-01,B DIVISION,E,2,Infrastructure & Equipment,Other - CE,1
+2025-03-01,B DIVISION,E,2,Infrastructure & Equipment,Other - Sig,2
+2025-03-01,B DIVISION,E,2,Infrastructure & Equipment,Other Infrastructure,2
+2025-03-01,B DIVISION,E,2,Infrastructure & Equipment,Rail and Roadbed,13
+2025-03-01,B DIVISION,E,2,Infrastructure & Equipment,Service Delivery,9
+2025-03-01,B DIVISION,E,2,Infrastructure & Equipment,Signal Modernization Capital Project,6
+2025-03-01,B DIVISION,E,2,Operating Conditions,Other Operating Environment,2
+2025-03-01,B DIVISION,E,2,Planned ROW Work,Capital Work - Other Planned ROW,14
+2025-03-01,B DIVISION,E,2,Planned ROW Work,Subways Maintenance,178
+2025-03-01,B DIVISION,E,2,Planned ROW Work,Work Equipment,2
+2025-03-01,B DIVISION,E,2,Police & Medical,Persons on Roadbed,15
+2025-03-01,B DIVISION,E,2,Police & Medical,"Public Conduct, Crime, Police Response",45
+2025-03-01,B DIVISION,E,2,Police & Medical,Sick/Injured Customer,4
+2025-03-01,B DIVISION,F,1,Crew Availability,Crew Availability,67
+2025-03-01,B DIVISION,F,1,External Factors,External Agency or Utility,92
+2025-03-01,B DIVISION,F,1,External Factors,External Debris on Roadbed,12
+2025-03-01,B DIVISION,F,1,External Factors,Inclement Weather,9
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Braking,19
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Door-Related,14
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,"Fire, Smoke, Debris",11
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Other - CE,75
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Other - Sig,97
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Other Infrastructure,117
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Other Internal Disruptions,90
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Propulsion,105
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Rail and Roadbed,84
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Service Delivery,28
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Signal Modernization Capital Project,116
+2025-03-01,B DIVISION,F,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,30
+2025-03-01,B DIVISION,F,1,Operating Conditions,Other Operating Environment,124
+2025-03-01,B DIVISION,F,1,Planned ROW Work,Capital Work - Other Planned ROW,26
+2025-03-01,B DIVISION,F,1,Planned ROW Work,Subways Maintenance,533
+2025-03-01,B DIVISION,F,1,Planned ROW Work,Work Equipment,45
+2025-03-01,B DIVISION,F,1,Police & Medical,Persons on Roadbed,237
+2025-03-01,B DIVISION,F,1,Police & Medical,"Public Conduct, Crime, Police Response",203
+2025-03-01,B DIVISION,F,1,Police & Medical,Sick/Injured Customer,46
+2025-03-01,B DIVISION,F,2,Crew Availability,Crew Availability,20
+2025-03-01,B DIVISION,F,2,Infrastructure & Equipment,Braking,1
+2025-03-01,B DIVISION,F,2,Infrastructure & Equipment,Other - CE,9
+2025-03-01,B DIVISION,F,2,Infrastructure & Equipment,Other - Sig,4
+2025-03-01,B DIVISION,F,2,Infrastructure & Equipment,Other Infrastructure,1
+2025-03-01,B DIVISION,F,2,Infrastructure & Equipment,Other Internal Disruptions,5
+2025-03-01,B DIVISION,F,2,Infrastructure & Equipment,Rail and Roadbed,3
+2025-03-01,B DIVISION,F,2,Infrastructure & Equipment,Service Delivery,10
+2025-03-01,B DIVISION,F,2,Infrastructure & Equipment,Signal Modernization Capital Project,32
+2025-03-01,B DIVISION,F,2,Operating Conditions,Other Operating Environment,42
+2025-03-01,B DIVISION,F,2,Planned ROW Work,Capital Work - Other Planned ROW,250
+2025-03-01,B DIVISION,F,2,Planned ROW Work,Subways Maintenance,174
+2025-03-01,B DIVISION,F,2,Planned ROW Work,Work Equipment,5
+2025-03-01,B DIVISION,F,2,Police & Medical,Persons on Roadbed,11
+2025-03-01,B DIVISION,F,2,Police & Medical,"Public Conduct, Crime, Police Response",62
+2025-03-01,B DIVISION,F,2,Police & Medical,Sick/Injured Customer,7
+2025-03-01,B DIVISION,G,1,Crew Availability,Crew Availability,34
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Braking,12
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Door-Related,14
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Other - CE,31
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Other - Sig,95
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Other Infrastructure,40
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Other Internal Disruptions,17
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Propulsion,21
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Rail and Roadbed,27
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Service Delivery,19
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Signal Modernization Capital Project,18
+2025-03-01,B DIVISION,G,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2
+2025-03-01,B DIVISION,G,1,Operating Conditions,Other Operating Environment,190
+2025-03-01,B DIVISION,G,1,Planned ROW Work,Capital Work - Other Planned ROW,43
+2025-03-01,B DIVISION,G,1,Planned ROW Work,Subways Maintenance,427
+2025-03-01,B DIVISION,G,1,Planned ROW Work,Work Equipment,16
+2025-03-01,B DIVISION,G,1,Police & Medical,Persons on Roadbed,26
+2025-03-01,B DIVISION,G,1,Police & Medical,"Public Conduct, Crime, Police Response",130
+2025-03-01,B DIVISION,G,1,Police & Medical,Sick/Injured Customer,20
+2025-03-01,B DIVISION,G,2,Crew Availability,Crew Availability,8
+2025-03-01,B DIVISION,G,2,Infrastructure & Equipment,Braking,6
+2025-03-01,B DIVISION,G,2,Infrastructure & Equipment,Door-Related,8
+2025-03-01,B DIVISION,G,2,Infrastructure & Equipment,Other - CE,25
+2025-03-01,B DIVISION,G,2,Infrastructure & Equipment,Other - Sig,10
+2025-03-01,B DIVISION,G,2,Infrastructure & Equipment,Other Infrastructure,1
+2025-03-01,B DIVISION,G,2,Infrastructure & Equipment,Other Internal Disruptions,17
+2025-03-01,B DIVISION,G,2,Infrastructure & Equipment,Propulsion,18
+2025-03-01,B DIVISION,G,2,Infrastructure & Equipment,Signal Modernization Capital Project,1
+2025-03-01,B DIVISION,G,2,Operating Conditions,Other Operating Environment,19
+2025-03-01,B DIVISION,G,2,Planned ROW Work,Capital Work - Other Planned ROW,246
+2025-03-01,B DIVISION,G,2,Planned ROW Work,Subways Maintenance,69
+2025-03-01,B DIVISION,G,2,Police & Medical,"Public Conduct, Crime, Police Response",61
+2025-03-01,B DIVISION,G,2,Police & Medical,Sick/Injured Customer,2
+2025-03-01,B DIVISION,JZ,1,Crew Availability,Crew Availability,55
+2025-03-01,B DIVISION,JZ,1,External Factors,External Debris on Roadbed,36
+2025-03-01,B DIVISION,JZ,1,External Factors,Inclement Weather,5
+2025-03-01,B DIVISION,JZ,1,Infrastructure & Equipment,Braking,47
+2025-03-01,B DIVISION,JZ,1,Infrastructure & Equipment,Door-Related,7
+2025-03-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other - CE,2
+2025-03-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other - Sig,133
+2025-03-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other Infrastructure,3
+2025-03-01,B DIVISION,JZ,1,Infrastructure & Equipment,Other Internal Disruptions,27
+2025-03-01,B DIVISION,JZ,1,Infrastructure & Equipment,Propulsion,15
+2025-03-01,B DIVISION,JZ,1,Infrastructure & Equipment,Rail and Roadbed,8
+2025-03-01,B DIVISION,JZ,1,Infrastructure & Equipment,Service Delivery,25
+2025-03-01,B DIVISION,JZ,1,Operating Conditions,Other Operating Environment,46
+2025-03-01,B DIVISION,JZ,1,Planned ROW Work,Capital Work - Other Planned ROW,25
+2025-03-01,B DIVISION,JZ,1,Planned ROW Work,Subways Maintenance,121
+2025-03-01,B DIVISION,JZ,1,Planned ROW Work,Work Equipment,8
+2025-03-01,B DIVISION,JZ,1,Police & Medical,Persons on Roadbed,12
+2025-03-01,B DIVISION,JZ,1,Police & Medical,"Public Conduct, Crime, Police Response",79
+2025-03-01,B DIVISION,JZ,1,Police & Medical,Sick/Injured Customer,56
+2025-03-01,B DIVISION,JZ,2,Crew Availability,Crew Availability,25
+2025-03-01,B DIVISION,JZ,2,Infrastructure & Equipment,Braking,4
+2025-03-01,B DIVISION,JZ,2,Infrastructure & Equipment,"Fire, Smoke, Debris",5
+2025-03-01,B DIVISION,JZ,2,Infrastructure & Equipment,Other - Sig,14
+2025-03-01,B DIVISION,JZ,2,Infrastructure & Equipment,Other Infrastructure,2
+2025-03-01,B DIVISION,JZ,2,Infrastructure & Equipment,Rail and Roadbed,2
+2025-03-01,B DIVISION,JZ,2,Infrastructure & Equipment,Service Delivery,4
+2025-03-01,B DIVISION,JZ,2,Operating Conditions,Other Operating Environment,8
+2025-03-01,B DIVISION,JZ,2,Planned ROW Work,Capital Work - Other Planned ROW,17
+2025-03-01,B DIVISION,JZ,2,Planned ROW Work,Subways Maintenance,97
+2025-03-01,B DIVISION,JZ,2,Planned ROW Work,Work Equipment,4
+2025-03-01,B DIVISION,JZ,2,Police & Medical,"Public Conduct, Crime, Police Response",53
+2025-03-01,B DIVISION,JZ,2,Police & Medical,Sick/Injured Customer,17
+2025-03-01,B DIVISION,L,1,Crew Availability,Crew Availability,38
+2025-03-01,B DIVISION,L,1,External Factors,External Debris on Roadbed,1
+2025-03-01,B DIVISION,L,1,Infrastructure & Equipment,Braking,108
+2025-03-01,B DIVISION,L,1,Infrastructure & Equipment,Other - CE,80
+2025-03-01,B DIVISION,L,1,Infrastructure & Equipment,Other - Sig,37
+2025-03-01,B DIVISION,L,1,Infrastructure & Equipment,Other Infrastructure,44
+2025-03-01,B DIVISION,L,1,Infrastructure & Equipment,Propulsion,14
+2025-03-01,B DIVISION,L,1,Infrastructure & Equipment,Service Delivery,3
+2025-03-01,B DIVISION,L,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,5
+2025-03-01,B DIVISION,L,1,Operating Conditions,Other Operating Environment,5
+2025-03-01,B DIVISION,L,1,Planned ROW Work,Capital Work - Other Planned ROW,28
+2025-03-01,B DIVISION,L,1,Planned ROW Work,Subways Maintenance,175
+2025-03-01,B DIVISION,L,1,Planned ROW Work,Work Equipment,6
+2025-03-01,B DIVISION,L,1,Police & Medical,Persons on Roadbed,140
+2025-03-01,B DIVISION,L,1,Police & Medical,"Public Conduct, Crime, Police Response",89
+2025-03-01,B DIVISION,L,1,Police & Medical,Sick/Injured Customer,26
+2025-03-01,B DIVISION,L,2,Crew Availability,Crew Availability,17
+2025-03-01,B DIVISION,L,2,Infrastructure & Equipment,Braking,3
+2025-03-01,B DIVISION,L,2,Infrastructure & Equipment,Other - CE,44
+2025-03-01,B DIVISION,L,2,Infrastructure & Equipment,Other Infrastructure,16
+2025-03-01,B DIVISION,L,2,Infrastructure & Equipment,Other Internal Disruptions,5
+2025-03-01,B DIVISION,L,2,Infrastructure & Equipment,Propulsion,11
+2025-03-01,B DIVISION,L,2,Infrastructure & Equipment,Signal Modernization Capital Project,2
+2025-03-01,B DIVISION,L,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,26
+2025-03-01,B DIVISION,L,2,Operating Conditions,Other Operating Environment,1
+2025-03-01,B DIVISION,L,2,Planned ROW Work,Subways Maintenance,1
+2025-03-01,B DIVISION,L,2,Planned ROW Work,Work Equipment,3
+2025-03-01,B DIVISION,L,2,Police & Medical,"Public Conduct, Crime, Police Response",11
+2025-03-01,B DIVISION,L,2,Police & Medical,Sick/Injured Customer,19
+2025-03-01,B DIVISION,M,1,Crew Availability,Crew Availability,36
+2025-03-01,B DIVISION,M,1,External Factors,External Agency or Utility,52
+2025-03-01,B DIVISION,M,1,External Factors,External Debris on Roadbed,32
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Braking,15
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Door-Related,16
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,"Fire, Smoke, Debris",4
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Other - CE,23
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Other - Sig,69
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Other Infrastructure,18
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Other Internal Disruptions,69
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Propulsion,5
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Rail and Roadbed,47
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Service Delivery,21
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Signal Modernization Capital Project,66
+2025-03-01,B DIVISION,M,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,16
+2025-03-01,B DIVISION,M,1,Operating Conditions,Other Operating Environment,102
+2025-03-01,B DIVISION,M,1,Planned ROW Work,Capital Work - Other Planned ROW,16
+2025-03-01,B DIVISION,M,1,Planned ROW Work,Subways Maintenance,50
+2025-03-01,B DIVISION,M,1,Planned ROW Work,Work Equipment,11
+2025-03-01,B DIVISION,M,1,Police & Medical,Persons on Roadbed,150
+2025-03-01,B DIVISION,M,1,Police & Medical,"Public Conduct, Crime, Police Response",117
+2025-03-01,B DIVISION,M,1,Police & Medical,Sick/Injured Customer,37
+2025-03-01,B DIVISION,M,2,Crew Availability,Crew Availability,1
+2025-03-01,B DIVISION,M,2,Infrastructure & Equipment,Rail and Roadbed,15
+2025-03-01,B DIVISION,M,2,Operating Conditions,Other Operating Environment,1
+2025-03-01,B DIVISION,M,2,Planned ROW Work,Subways Maintenance,13
+2025-03-01,B DIVISION,M,2,Planned ROW Work,Work Equipment,1
+2025-03-01,B DIVISION,M,2,Police & Medical,"Public Conduct, Crime, Police Response",1
+2025-03-01,B DIVISION,N,1,Crew Availability,Crew Availability,57
+2025-03-01,B DIVISION,N,1,External Factors,External Agency or Utility,108
+2025-03-01,B DIVISION,N,1,External Factors,External Debris on Roadbed,26
+2025-03-01,B DIVISION,N,1,External Factors,Inclement Weather,28
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Braking,49
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Door-Related,46
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,"Fire, Smoke, Debris",31
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Other - CE,154
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Other - Sig,278
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Other Infrastructure,62
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Other Internal Disruptions,9
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Propulsion,39
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Rail and Roadbed,76
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Service Delivery,31
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Signal Modernization Capital Project,3
+2025-03-01,B DIVISION,N,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,36
+2025-03-01,B DIVISION,N,1,Operating Conditions,Other Operating Environment,102
+2025-03-01,B DIVISION,N,1,Planned ROW Work,Subways Maintenance,329
+2025-03-01,B DIVISION,N,1,Planned ROW Work,Work Equipment,129
+2025-03-01,B DIVISION,N,1,Police & Medical,Persons on Roadbed,34
+2025-03-01,B DIVISION,N,1,Police & Medical,"Public Conduct, Crime, Police Response",282
+2025-03-01,B DIVISION,N,1,Police & Medical,Sick/Injured Customer,34
+2025-03-01,B DIVISION,N,2,Crew Availability,Crew Availability,23
+2025-03-01,B DIVISION,N,2,External Factors,External Debris on Roadbed,7
+2025-03-01,B DIVISION,N,2,Infrastructure & Equipment,Braking,12
+2025-03-01,B DIVISION,N,2,Infrastructure & Equipment,Door-Related,14
+2025-03-01,B DIVISION,N,2,Infrastructure & Equipment,"Fire, Smoke, Debris",22
+2025-03-01,B DIVISION,N,2,Infrastructure & Equipment,Other - CE,39
+2025-03-01,B DIVISION,N,2,Infrastructure & Equipment,Other - Sig,54
+2025-03-01,B DIVISION,N,2,Infrastructure & Equipment,Propulsion,20
+2025-03-01,B DIVISION,N,2,Infrastructure & Equipment,Rail and Roadbed,9
+2025-03-01,B DIVISION,N,2,Infrastructure & Equipment,Service Delivery,15
+2025-03-01,B DIVISION,N,2,Operating Conditions,Other Operating Environment,41
+2025-03-01,B DIVISION,N,2,Planned ROW Work,Capital Work - Other Planned ROW,2
+2025-03-01,B DIVISION,N,2,Planned ROW Work,Subways Maintenance,105
+2025-03-01,B DIVISION,N,2,Planned ROW Work,Work Equipment,22
+2025-03-01,B DIVISION,N,2,Police & Medical,Persons on Roadbed,10
+2025-03-01,B DIVISION,N,2,Police & Medical,"Public Conduct, Crime, Police Response",84
+2025-03-01,B DIVISION,N,2,Police & Medical,Sick/Injured Customer,23
+2025-03-01,B DIVISION,Q,1,Crew Availability,Crew Availability,30
+2025-03-01,B DIVISION,Q,1,External Factors,External Agency or Utility,61
+2025-03-01,B DIVISION,Q,1,External Factors,External Debris on Roadbed,36
+2025-03-01,B DIVISION,Q,1,Infrastructure & Equipment,Braking,66
+2025-03-01,B DIVISION,Q,1,Infrastructure & Equipment,Door-Related,45
+2025-03-01,B DIVISION,Q,1,Infrastructure & Equipment,"Fire, Smoke, Debris",13
+2025-03-01,B DIVISION,Q,1,Infrastructure & Equipment,Other - CE,104
+2025-03-01,B DIVISION,Q,1,Infrastructure & Equipment,Other - Sig,126
+2025-03-01,B DIVISION,Q,1,Infrastructure & Equipment,Other Infrastructure,9
+2025-03-01,B DIVISION,Q,1,Infrastructure & Equipment,Propulsion,7
+2025-03-01,B DIVISION,Q,1,Infrastructure & Equipment,Rail and Roadbed,45
+2025-03-01,B DIVISION,Q,1,Infrastructure & Equipment,Service Delivery,45
+2025-03-01,B DIVISION,Q,1,Operating Conditions,Other Operating Environment,88
+2025-03-01,B DIVISION,Q,1,Planned ROW Work,Capital Work - Other Planned ROW,2
+2025-03-01,B DIVISION,Q,1,Planned ROW Work,Subways Maintenance,164
+2025-03-01,B DIVISION,Q,1,Planned ROW Work,Work Equipment,36
+2025-03-01,B DIVISION,Q,1,Police & Medical,Persons on Roadbed,67
+2025-03-01,B DIVISION,Q,1,Police & Medical,"Public Conduct, Crime, Police Response",189
+2025-03-01,B DIVISION,Q,1,Police & Medical,Sick/Injured Customer,41
+2025-03-01,B DIVISION,Q,2,Crew Availability,Crew Availability,18
+2025-03-01,B DIVISION,Q,2,External Factors,External Debris on Roadbed,20
+2025-03-01,B DIVISION,Q,2,Infrastructure & Equipment,Braking,6
+2025-03-01,B DIVISION,Q,2,Infrastructure & Equipment,Door-Related,4
+2025-03-01,B DIVISION,Q,2,Infrastructure & Equipment,"Fire, Smoke, Debris",5
+2025-03-01,B DIVISION,Q,2,Infrastructure & Equipment,Other - CE,8
+2025-03-01,B DIVISION,Q,2,Infrastructure & Equipment,Other - Sig,18
+2025-03-01,B DIVISION,Q,2,Infrastructure & Equipment,Other Infrastructure,1
+2025-03-01,B DIVISION,Q,2,Infrastructure & Equipment,Propulsion,11
+2025-03-01,B DIVISION,Q,2,Infrastructure & Equipment,Rail and Roadbed,4
+2025-03-01,B DIVISION,Q,2,Infrastructure & Equipment,Service Delivery,5
+2025-03-01,B DIVISION,Q,2,Operating Conditions,Other Operating Environment,17
+2025-03-01,B DIVISION,Q,2,Planned ROW Work,Capital Work - Other Planned ROW,1
+2025-03-01,B DIVISION,Q,2,Planned ROW Work,Subways Maintenance,69
+2025-03-01,B DIVISION,Q,2,Planned ROW Work,Work Equipment,9
+2025-03-01,B DIVISION,Q,2,Police & Medical,Persons on Roadbed,1
+2025-03-01,B DIVISION,Q,2,Police & Medical,"Public Conduct, Crime, Police Response",43
+2025-03-01,B DIVISION,Q,2,Police & Medical,Sick/Injured Customer,15
+2025-03-01,B DIVISION,R,1,Crew Availability,Crew Availability,50
+2025-03-01,B DIVISION,R,1,External Factors,External Agency or Utility,29
+2025-03-01,B DIVISION,R,1,External Factors,External Debris on Roadbed,17
+2025-03-01,B DIVISION,R,1,External Factors,Inclement Weather,2
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Braking,4
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Door-Related,16
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,"Fire, Smoke, Debris",5
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Other - CE,123
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Other - Sig,97
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Other Infrastructure,52
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Other Internal Disruptions,21
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Propulsion,4
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Rail and Roadbed,59
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Service Delivery,18
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Signal Modernization Capital Project,123
+2025-03-01,B DIVISION,R,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,15
+2025-03-01,B DIVISION,R,1,Operating Conditions,Other Operating Environment,66
+2025-03-01,B DIVISION,R,1,Planned ROW Work,Capital Work - Other Planned ROW,17
+2025-03-01,B DIVISION,R,1,Planned ROW Work,Subways Maintenance,148
+2025-03-01,B DIVISION,R,1,Planned ROW Work,Work Equipment,83
+2025-03-01,B DIVISION,R,1,Police & Medical,Persons on Roadbed,86
+2025-03-01,B DIVISION,R,1,Police & Medical,"Public Conduct, Crime, Police Response",123
+2025-03-01,B DIVISION,R,1,Police & Medical,Sick/Injured Customer,22
+2025-03-01,B DIVISION,R,2,Crew Availability,Crew Availability,23
+2025-03-01,B DIVISION,R,2,External Factors,External Debris on Roadbed,2
+2025-03-01,B DIVISION,R,2,Infrastructure & Equipment,Braking,7
+2025-03-01,B DIVISION,R,2,Infrastructure & Equipment,Door-Related,4
+2025-03-01,B DIVISION,R,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1
+2025-03-01,B DIVISION,R,2,Infrastructure & Equipment,Other - CE,22
+2025-03-01,B DIVISION,R,2,Infrastructure & Equipment,Other - Sig,19
+2025-03-01,B DIVISION,R,2,Infrastructure & Equipment,Other Infrastructure,1
+2025-03-01,B DIVISION,R,2,Infrastructure & Equipment,Propulsion,12
+2025-03-01,B DIVISION,R,2,Infrastructure & Equipment,Rail and Roadbed,16
+2025-03-01,B DIVISION,R,2,Infrastructure & Equipment,Service Delivery,2
+2025-03-01,B DIVISION,R,2,Operating Conditions,Other Operating Environment,1
+2025-03-01,B DIVISION,R,2,Planned ROW Work,Subways Maintenance,25
+2025-03-01,B DIVISION,R,2,Planned ROW Work,Work Equipment,5
+2025-03-01,B DIVISION,R,2,Police & Medical,Persons on Roadbed,13
+2025-03-01,B DIVISION,R,2,Police & Medical,"Public Conduct, Crime, Police Response",34
+2025-03-01,B DIVISION,R,2,Police & Medical,Sick/Injured Customer,10
+2025-03-01,B DIVISION,S Fkln,1,Crew Availability,Crew Availability,1
+2025-03-01,B DIVISION,S Fkln,1,Infrastructure & Equipment,Braking,5
+2025-03-01,B DIVISION,S Fkln,1,Infrastructure & Equipment,Door-Related,9
+2025-03-01,B DIVISION,S Fkln,1,Infrastructure & Equipment,Service Delivery,3
+2025-03-01,B DIVISION,S Fkln,1,Police & Medical,"Public Conduct, Crime, Police Response",5
+2025-03-01,B DIVISION,S Fkln,2,Police & Medical,Sick/Injured Customer,11
+2025-03-01,B DIVISION,S Rock,1,Crew Availability,Crew Availability,2
+2025-03-01,B DIVISION,S Rock,1,External Factors,External Debris on Roadbed,2
+2025-03-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Braking,2
+2025-03-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Door-Related,17
+2025-03-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Other - CE,9
+2025-03-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Other - Sig,2
+2025-03-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Other Internal Disruptions,11
+2025-03-01,B DIVISION,S Rock,1,Infrastructure & Equipment,Service Delivery,2
+2025-03-01,B DIVISION,S Rock,1,Planned ROW Work,Capital Work - Other Planned ROW,1
+2025-03-01,B DIVISION,S Rock,1,Planned ROW Work,Subways Maintenance,5
+2025-03-01,B DIVISION,S Rock,1,Planned ROW Work,Work Equipment,12
+2025-03-01,B DIVISION,S Rock,1,Police & Medical,"Public Conduct, Crime, Police Response",9
+2025-03-01,B DIVISION,S Rock,1,Police & Medical,Sick/Injured Customer,4
+2025-03-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Other - Sig,7
+2025-03-01,B DIVISION,S Rock,2,Infrastructure & Equipment,Rail and Roadbed,9
+2025-03-01,B DIVISION,S Rock,2,Planned ROW Work,Subways Maintenance,3
+2025-03-01,B DIVISION,S Rock,2,Planned ROW Work,Work Equipment,3
+2025-03-01,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",2
